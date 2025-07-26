@@ -1,0 +1,8 @@
+- The captain is dead
+- Left you with a cheap job, a heap of debt, a broken down ship called the [[Clutch]], and just enough fuel to get some work and get back to Absalom Station
+- [[Corporation]] has a lien on your ship. If you don't pay, they'll repossess it, leaving you stranded.
+- Find a score, get paid, live to fly another day
+- Luckily, you find the [[Emerald Empyrian]], a wrecked cruise ship, right on your path home.
+- After weighing your options, you decided to send your scout [[Quonx]] to check it out. It's been 2 hours since he checked in
+- You're the boarding team, while the mechanic and the medic are staying back on the ship
+- Find your scout, get salvage, and get out before any more aggressive scrappers find you

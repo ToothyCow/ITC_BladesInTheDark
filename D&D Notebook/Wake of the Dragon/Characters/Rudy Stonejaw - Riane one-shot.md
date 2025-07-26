@@ -1,0 +1,1 @@
+Goliath - +2, +1 attributes
