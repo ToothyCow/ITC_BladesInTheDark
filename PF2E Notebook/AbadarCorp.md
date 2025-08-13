@@ -1,1 +1,0 @@
-Lawful neutral corporation, led by deity of capitalism
