@@ -47,3 +47,5 @@ Other ideas (source: reddit)
 - And the most obvious of them all, Oceans 11 - either have them get pulled into a heist or be present when a complicated one is going down, getting them unwittingly caught up in some relative insanity.
 
 ![[Bekai.jpg]]
+
+![[Bekai City Map.jpg]]
