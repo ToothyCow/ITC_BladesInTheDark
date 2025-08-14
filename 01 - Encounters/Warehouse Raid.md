@@ -27,9 +27,9 @@ Monsters:
 
 # Objective 
 Monsters:
-- Kill intruders, escape with goods
+- Kill intruders, escape with goods and Tao
 Players:
-- XXX
+- Get Tao back, retrieve stolen goods
 
 # Moments:
 - Start a fire, let it spread

@@ -98,17 +98,4 @@ _Check off when revealed._
 - [Donjon Random Treasure Generator](https://donjon.bin.sh/5e/random/#type=treasure;treasure-cr=4;treasure-loot_type=treasure_hoard)
 
 # Session Notes
-Made it to Bekai with no merchants dead
-Jared lost so much money gambling
-Jei telling story in tavern - 1/7
-- Elven Family struggling in the woods
-- Had a daughter, beloved
-- Daughter got sick
-- Went to dark mage in the woods, begged for help, offered anything in return
-- Mage was secretly a fey
-- Offered a deal - daughter lived another day, parents did not
-- Daughter picked up by raiders, treated horribly
-- Another fey happened across the young lady, recognized that she had been touched 
-Falafel sending a message to Superior
-- Need reinforcements, will meet at capital, be mindful of Fey. Summer camp's been fun, will write again soon
-Group moves toward Order of the Eternal Flame chapter for bunks, followed by stalkers from bar
+XXX
