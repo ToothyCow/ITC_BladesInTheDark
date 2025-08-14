@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "8b3afa89080f7536",
+    "type": "split",
+    "children": [
+      {
+        "id": "2634212ba87b6792",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeac5b6ebd6c9d25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wake of the Dragon/00 - Sessions/2025-07-15 - The Seekers Strike.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-15 - The Seekers Strike"
+            }
+          },
+          {
+            "id": "06c31fad8a438cf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5694c66706b5c6e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b3a898c431e9d38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2169784896fb3567",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6a94b101df7b29ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ce6ffbdcf210851c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "09f993db7f40cb73",
+    "type": "split",
+    "children": [
+      {
+        "id": "2758a6712c53edf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd144f9d6b387ec8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wake of the Dragon/00 - Sessions/2025-05-13 - Into the Fire.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-05-13 - Into the Fire"
+            }
+          },
+          {
+            "id": "f87c55293609a7db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Wake of the Dragon/00 - Sessions/2025-05-13 - Into the Fire.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-05-13 - Into the Fire"
+            }
+          },
+          {
+            "id": "01ba757b2045fad7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5733df902d8336ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Wake of the Dragon/00 - Sessions/2025-05-13 - Into the Fire.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-05-13 - Into the Fire"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "06c31fad8a438cf3",
+  "lastOpenFiles": [
+    "Wake of the Dragon/00 - Sessions/2025-07-15 - The Seekers Strike.md",
+    "conflict-files-obsidian-git.md",
+    "00 - Token.md",
+    "02 - Monsters/Monster Shortlist/Dragon Sorcerer.md",
+    "02 - Monsters/Monster Shortlist/Dragon Servitor.md",
+    "02 - Monsters/Monster Shortlist/Dragon Disciple - Inciter.md",
+    "03 - Resources/WyrmlingRedDragon.png",
+    "02 - Monsters/Monster Shortlist/Wyrmling Red Dragon (Chromatic).md",
+    "Wake of the Dragon/Locations/Blazing Bekai.md",
+    "Wake of the Dragon/00 - Sessions/2025-06-13 - City of Wonders.md",
+    "01 - Encounters/Mad Dash to Bekai.md",
+    "Wake of the Dragon/Characters/Fletcher.md",
+    "Wake of the Dragon/00 - Sessions/Old Session Notes/2025-05-13 - Into the Spotlight - Summary.md",
+    "Mine.md",
+    "Wake of the Dragon/Lore/Quick Background.md",
+    "Wake of the Dragon/00 - World of 'Wake of the Dragon' - MOC.md",
+    "Wake of the Dragon/Characters/(Formerly) Kanto.md",
+    "Wake of the Dragon/Characters/Nikria Therasan.md",
+    "Wake of the Dragon/Characters/Queen of the Starry Host.md",
+    "Wake of the Dragon/Party View.md",
+    "01 - Encounters/Hunted by the Seekers.md",
+    "Wandbreakers.md",
+    "Wake of the Dragon/00 - Sessions/Old Session Notes/2025-05-13 - Into the Spotlight.md",
+    "00 - Templates/Session Template.md",
+    "00 - Templates/Monster Template.md",
+    "00 - Templates/Encounter Template.md",
+    "00 - Templates/Campaign Item Template.md",
+    "Resources/urbex-flyer-creepyforest.jpg"
+  ]
+}
