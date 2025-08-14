@@ -11,12 +11,14 @@
             "id": "9f9ab88384e2fac2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "03 - Resources/Maps/Bekai - City Map.jpg"
+                "file": "Wake of the Dragon/Locations/Blazing Bekai.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Bekai - City Map"
+              "icon": "lucide-file",
+              "title": "Blazing Bekai"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Resources/Maps/Bekai City Map.jpg",
+                "file": "Wake of the Dragon/Locations/Blazing Bekai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bekai City Map"
+              "title": "Backlinks for Blazing Bekai"
             }
           },
           {
@@ -153,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,7 +170,7 @@
   },
   "active": "9f9ab88384e2fac2",
   "lastOpenFiles": [
-    "03 - Resources/1000008244.jpg",
-    "03 - Resources/Maps/Bekai - City Map.jpg"
+    "03 - Resources/Maps/Bekai - City Map.jpg",
+    "03 - Resources/1000008244.jpg"
   ]
 }

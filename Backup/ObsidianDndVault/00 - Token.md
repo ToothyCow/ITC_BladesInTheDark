@@ -1,3 +1,0 @@
-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
-
-https://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@github.com/ToothyCow/ObsidianDndSync
