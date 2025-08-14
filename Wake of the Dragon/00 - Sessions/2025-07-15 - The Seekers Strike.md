@@ -73,6 +73,11 @@ SORT file.name DESC
 
 ### If Tao captured - Warehouse Interrogation
 - Dragon: [[Craphos]]
+- TEST EDITS - T1047
+- Craphos motivations:
+	- I will humiliate this insect for stealing from us
+	- I will take back what is ours
+	- I will show my domination
 
 
 

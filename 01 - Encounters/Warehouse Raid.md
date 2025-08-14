@@ -33,6 +33,11 @@ Players:
 
 # Moments:
 - Start a fire, let it spread
+- Magical artifacts go haywire
+	- Wand of magic missiles starts misfiring
+	- Magical beast unleashed, attacks everyone
+	- Magical drugs get aerosolized, force will save vs effect
+		- Draw a card - Hearts = Love, Clubs = Fear/Anger Berserk, Spades = Grief, Diamonds = Greedy hallucinations
 
 
 Scratchpad
