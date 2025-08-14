@@ -11,12 +11,14 @@
             "id": "08e159c900fdaab5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "03 - Resources/Maps/Bekai City Map.jpg"
+                "file": "Wake of the Dragon/00 - Sessions/2025-07-15 - The Seekers Strike.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Bekai City Map"
+              "icon": "lucide-file",
+              "title": "2025-07-15 - The Seekers Strike"
             }
           }
         ]
@@ -149,5 +151,9 @@
     }
   },
   "active": "08e159c900fdaab5",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Wake of the Dragon/Characters/Craphos.md",
+    "Wake of the Dragon/00 - Sessions/2025-07-15 - The Seekers Strike.md",
+    "03 - Resources/Maps/Bekai City Map.jpg"
+  ]
 }

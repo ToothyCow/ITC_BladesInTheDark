@@ -72,7 +72,8 @@ SORT file.name DESC
 
 
 ### If Tao captured - Warehouse Interrogation
-- Dragon
+- Dragon: [[Craphos]]
+
 
 
 ### Encounter: [[Warehouse Raid]]
