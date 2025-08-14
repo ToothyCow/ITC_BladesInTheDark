@@ -73,7 +73,6 @@ SORT file.name DESC
 
 ### If Tao captured - Warehouse Interrogation
 - Dragon: [[Craphos]]
-- TEST auto update - T1054 was a manual sync
 - Craphos motivations:
 	- I will humiliate this insect for stealing from us
 	- I will take back what is ours
