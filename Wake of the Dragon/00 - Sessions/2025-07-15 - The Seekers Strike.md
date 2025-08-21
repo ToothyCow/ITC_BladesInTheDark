@@ -98,4 +98,9 @@ _Check off when revealed._
 - [Donjon Random Treasure Generator](https://donjon.bin.sh/5e/random/#type=treasure;treasure-cr=4;treasure-loot_type=treasure_hoard)
 
 # Session Notes
-XXX
+Falafel and Tao spotted the Seekers
+Group tried to shake the pursuers, but the seekers firebombed a cart
+Rudy joined the fight, but they took Tao
+Jei tried to help, but Patron forbade her. She fought back to defend her friends, and sent Mine to follow Seekers
+Tao agreed to go quietly if the rest of the Seekers left her friends alone
+Falafel and Rudy followed Mine to see where the Seekers were taking Tao, while Jared, Samantha, and Jei went to Ihaiir
