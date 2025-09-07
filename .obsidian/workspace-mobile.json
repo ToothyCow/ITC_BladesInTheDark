@@ -170,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -181,11 +182,12 @@
   },
   "active": "ad6424b844e8f142",
   "lastOpenFiles": [
-    "Wake of the Dragon/Characters/Craphos.md",
+    "Wake of the Dragon/Characters/Chimess.md",
     "Wake of the Dragon/00 - Sessions/2025-07-15 - The Seekers Strike.md",
+    "Wake of the Dragon/Characters/Craphos.md",
+    "01 - Encounters/Warehouse Raid.md",
     "03 - Resources/Rudy Stonejaw.jpg",
     "Wake of the Dragon/Characters/Rudy Stonejaw - Riane one-shot.md",
-    "01 - Encounters/Warehouse Raid.md",
     "Wake of the Dragon/00 - Sessions/Old Session Notes/2025-06-13 - City of Wonders Summary.md",
     "Wake of the Dragon/Locations/Blazing Bekai.md",
     "03 - Resources/Maps/Bekai - City Map.jpg",
