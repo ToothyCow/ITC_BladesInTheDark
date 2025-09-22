@@ -54,4 +54,3 @@ Monster
 ```
 
 
-![[kscak6cd9rq31.jpg]]
