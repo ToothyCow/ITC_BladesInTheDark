@@ -54,4 +54,4 @@ Monster
 ```
 
 
-![[kscak6cd9rq31.jpg]]
+![[Map_CrowdedWarehouse.jpg]]
