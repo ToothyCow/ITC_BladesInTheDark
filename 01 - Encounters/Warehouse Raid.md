@@ -34,8 +34,7 @@ Players:
 # Moments:
 - Start a fire, let it spread
 - Magical artifacts go haywire
-	- Wand of magic missiles starts misfiring
-	- Magical beast unleashed, attacks everyone
+	- https://www.dndbeyond.com/magic-items/4800-wand-of-wonder?srsltid=AfmBOoraCAnQEI82reTlCEQO2XAlZlIfU61U4B_OgNccUqiZIFsFfwz2
 	- Magical drugs get aerosolized, force will save vs effect
 		- Draw a card - Hearts = Love, Clubs = Fear/Anger Berserk, Spades = Grief, Diamonds = Greedy hallucinations
 
