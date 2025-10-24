@@ -1,0 +1,3 @@
+I am a D&D 5e dungeon master who is planning a session for his players.
+
+They will take the role of racers in a grand desert race of sleighs pulled by bulettes (land sharks). The sleighs will be large enough for 10 people to stand and move about, and there will be 8 sleighs in the race. The rules forbid lethal harm to racers or animals, but nearly everything else is fair game. What are 2 interesting things about each of the other teams, what are 10 interesting hazards that could be found on the course, and what are 5 ways I could make this race mechanically interesting for all 4 players?

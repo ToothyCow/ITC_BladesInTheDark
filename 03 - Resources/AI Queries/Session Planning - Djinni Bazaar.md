@@ -1,0 +1,3 @@
+I am a D&D 5e dungeon master who is planning a session for his players.
+
+As an introductory scene, I want to have them explore a magical desert city run by djinni. They will visit a blacksmith that uses wish magic to craft magical items, and I want them to explore a number of other bars, entertainment centers, and oddities. What are 10 points of interest I could include in this magical fantasy desert city themed around djinni, gambling, and intrigue? What are 10 interesting characters they might encounter?
