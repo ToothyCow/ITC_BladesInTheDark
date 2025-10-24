@@ -59,12 +59,18 @@ SORT file.name DESC
 
 # Scenes
 
-### *Strong Start -  
-
-### Interlude - Places of Magic and Wonder
+### *Strong Start -  Places of Magic and Wonder*
 - You are on the Djinni payroll, at least for the time being. This gives you access to many of the more exclusive clubs and shops of the city, all at a reasonable discount.
-- Shops: Magical Items (Armor?)
+- Shops:
+	- [[Golden Crucible]]
 - Clubs: Music, Gambling, Drinks
+- Moments:
+	- News: [[Harold Jubilant]] nominated for Minister of Magical Research
+	- Gnomes working with Djinni
+	- Weeping Phoenix presence
+	- Seekers of the Flame rumored to be moving
+
+### Encounter - [[To Stop a Thief]]
 
 
 # Secret and Clues
@@ -73,7 +79,7 @@ _Check off when revealed._
 
 - [ ] [[Tao Xiloscient]]'s father was a member of the [[Seekers of the Flame]]
 - [x] [[Seekers of the Flame]] have a cult base in [[Blazing Bekai]]
-- [ ] Dragons are made from magic users ascending through a dark ritual
+- [x] Dragons are made from magic users ascending through a dark ritual
 - [ ] Dragons feed on domination, subjugating others to their will
 - [ ] The Weeping Phoenix is gathering support in Bekai and in Ariosa City
 
