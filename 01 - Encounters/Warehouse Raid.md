@@ -1,10 +1,11 @@
 ---
 Creation Date: 2025-07-26T16:03:00
 Category: Encounter
-tags: 
-Current: true
+tags:
+Current: false
+v]93...96:
 ---
-
+v k mvbbbbbbbbbbbuuuuuuuuuuuuuu 
 Song: https://open.spotify.com/track/1FIMsuJxlEKXx6FBiYIEmj?si=ftrOoJH0QwOzwG4omC_7Ug
 
 ```dataview
@@ -21,6 +22,7 @@ Monsters:
 - [[Dragon Sorcerer]]
 - [[Dragon Disciple - Inciter]]
 - [[Dragon Servitor]]
+	- Big guy - 42 hp
 
 # Setup:
 - 

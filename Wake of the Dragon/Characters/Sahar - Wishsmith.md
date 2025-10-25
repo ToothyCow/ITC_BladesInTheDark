@@ -1,0 +1,1 @@
+A stoic, embittered djinni, tending to his forge. He has been known to twist customer wishes out of spite, claiming he’s “teaching mortals precision.” His heat intensifies when he grows emotional.

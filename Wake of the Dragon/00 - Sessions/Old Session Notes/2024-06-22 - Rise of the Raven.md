@@ -17,7 +17,7 @@ Description:
 |[[Falafel]]|17||13|9|13||
 |[[Wake of the Dragon/Characters/Jared the Jester (Jubilant)]]|13||12|12|12||
 |[[Wake of the Dragon/Characters/Jei Malva]]|13||13|12|11||
-|[[Wake of the Dragon/Characters/Rudy Stonejaw - Riane one-shot]]|||||||
+|[[Rudy Stonejaw]]|||||||
 |[[Wake of the Dragon/Characters/Samantha Murph]]|16||12|12|12||
 |[[Wake of the Dragon/Characters/Tao Xiloscient]]|14||12|12|12||
 
