@@ -27,9 +27,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Monsters/Monster Shortlist/Wyrmling Red Dragon (Chromatic).md",
+                "file": "01 - Encounters/To Stop a Thief.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wyrmling Red Dragon (Chromatic)"
+              "title": "To Stop a Thief"
             }
           }
         ],
@@ -123,7 +123,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ZZ - Git Sync Tutorial.md",
+            "file": "01 - Encounters/To Stop a Thief.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -182,6 +182,8 @@
   },
   "active": "ad6424b844e8f142",
   "lastOpenFiles": [
+    "Wake of the Dragon/00 - Sessions/2025-10-25 - Bekai Finale.md",
+    "02 - Monsters/Monster Shortlist/Wyrmling Red Dragon (Chromatic).md",
     "Wake of the Dragon/00 - Sessions/2025-09-16 - Bekai Finale.md",
     "To Stop a Thief.md",
     "Golden Crucible.md",
@@ -217,8 +219,6 @@
     "Backup/ObsidianDndVault/Wake of the Dragon/00 - Sessions/Session Zero Notes/Session Zero Notes.md",
     "Backup/ObsidianDndVault/Wake of the Dragon/00 - Sessions/Old Session Notes/Old Session Notes.md",
     "Backup/ObsidianDndVault/Wake of the Dragon/00 - Sessions/Old Session Notes/Fey Deals Tracker.md",
-    "Backup/ObsidianDndVault/Wake of the Dragon/00 - Sessions/Old Session Notes/2025-06-13 - City of Wonders.md",
-    "Backup/ObsidianDndVault/Wake of the Dragon/00 - Sessions/Old Session Notes/2025-06-13 - City of Wonders Summary.md",
     "Backup/ObsidianDndVault/Wake of the Dragon/Characters/Character Sheets",
     "Backup/ObsidianDndVault/Wake of the Dragon/00 - Sessions/Session Zero Notes",
     "Backup/ObsidianDndVault/Wake of the Dragon/00 - Sessions/Old Session Notes",
