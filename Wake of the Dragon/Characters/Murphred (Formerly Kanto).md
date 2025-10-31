@@ -11,9 +11,11 @@ Current:
 
 Drama queen, expressive, chuckles, sputters
 
-Purpose: reflection on the party’s actions, alternative perspective
+Purpose: Support. Chance for party to influence a friend
 
-Traits: I am desperate to find my role in this story. If I’m not going to be the protagonist, I’m definitely not going to be cannon fodder.
+Traits:
+- I am desperate to find my role in this story. If I’m not going to be the protagonist, I’m definitely not going to be cannon fodder.
+- I was important, I had a destiny, but I wasn't good enough to keep it. Who am I without a story?
 
   
 
