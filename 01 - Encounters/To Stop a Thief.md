@@ -10,11 +10,10 @@ Current: false
 table HP, AC, Speed, str, dex, con, int, wis, cha, CR
 from "02 - Monsters/Monster Shortlist"
 WHERE
-file.name = "Wyrmling Red Dragon (Chromatic)"
+file.name = "Red Dragon - Young (Weakened)"
 ```
 
 Monsters:
-- [Sly Flourish - 5e monsters](https://slyflourish.com/5e_monsters/)
 - [Open 5e - Monsters](https://open5e.com/monsters)
 
 # General Vibes

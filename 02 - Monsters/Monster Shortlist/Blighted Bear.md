@@ -11,7 +11,7 @@ CON: "+3"
 INT: "-4"
 WIS: "+1"
 CHA: "-2"
-On Deck: false
+On Deck: true
 ---
 Theme: [https://www.youtube.com/watch?v=cOlgo8frvrU&list=PLYUrkkYap3y7Tn1RHpgAli4fyw1aYc8g7](https://www.youtube.com/watch?v=cOlgo8frvrU&list=PLYUrkkYap3y7Tn1RHpgAli4fyw1aYc8g7)
 

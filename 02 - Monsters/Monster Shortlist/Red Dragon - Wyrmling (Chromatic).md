@@ -1,6 +1,20 @@
-# Red Dragon Wyrmling (Chromatic)
+---
+Traits:
+  - Medium Dragon
+AC: "17"
+HP: "75 (10d8+30)"
+Speed: Walk 30 ft, climb 30 ft, fly 60 ft
+CR: "4"
+STR: "+4"
+DEX: "0"
+CON: "+3"
+INT: "+1"
+WIS: "0"
+CHA: "+2"
+On Deck: true
+---
 
-*Medium dragon, chaotic evil*
+*Medium dragon*
 
 **Armor Class** 17 (natural armor)
 
@@ -30,4 +44,3 @@
 
 ***Fire Breath (Recharge 5-6)***. The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
 
-![[WyrmlingRedDragon.png]]

@@ -15,8 +15,8 @@ file.name = "Flinderbeast"
 ```
 
 Monsters:
-- [Sly Flourish - 5e monsters](https://slyflourish.com/5e_monsters/)
 - [Open 5e - Monsters](https://open5e.com/monsters)
+- [[Monster Conversion]]
 
 # Setup:
 - What happens?
