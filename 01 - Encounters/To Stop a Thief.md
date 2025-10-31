@@ -84,6 +84,11 @@ Players:
 # Moments:
 - At the beginning of Round 4, summon swarm of mephits
 
+# Maps
+![[Hall of Broken Promises - Vault - Stage 1.png]]
+![[Hall of Broken Promises - Vault - Stage 2.png]]
+![[Hall of Broken Promises - Vault - Stage 3.png]]
+![[Hall of Broken Promises - Vault - Stage 4.png]]
 
 Scratchpad
 
