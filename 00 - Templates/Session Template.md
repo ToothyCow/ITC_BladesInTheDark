@@ -28,7 +28,7 @@ LAST TIME:
 - XXX
 
 # People
-[[(Formerly) Kanto]]
+[[Murphred (Formerly Kanto)]]
 [[Wake of the Dragon/Characters/Queen of the Starry Host]]
 [[Crick]]
 [[Wake of the Dragon/Characters/Nikria Therasan]]

@@ -1,5 +1,7 @@
 {
   "pinned": [
-    "insert-template"
+    "insert-template",
+    "obsidian-git:pull",
+    "obsidian-git:push"
   ]
 }

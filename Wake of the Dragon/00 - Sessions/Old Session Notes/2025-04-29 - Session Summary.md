@@ -18,7 +18,7 @@ Description:
     - Guilty that she let the Ravens in, guilty that she has failed to live up to her family’s legacy
     - “Tell me, Holy Mother - can I ever atone for failing my people so utterly?”
     - Falafel comes clean, Marris embarrassed, still asks for advice
-- [[(Formerly) Kanto]]’s escape plan
+- [[Murphred (Formerly Kanto)]]’s escape plan
     - Turn central tree into a gateway to Feywild, Takes some time
     - Asks for a good word to his mother, [[Wake of the Dragon/Characters/Queen of the Starry Host]]
 - In the Mines:

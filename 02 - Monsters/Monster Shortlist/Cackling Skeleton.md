@@ -39,4 +39,4 @@ Source: [https://slyflourish.com/5e_monsters/monsters_html/cackling-skeleton.htm
 
   
 
-![[Untitled.png]]
+![[Crick.png]]

@@ -20,7 +20,7 @@ Ideas:
 |[[Wake of the Dragon/Characters/Queen of the Starry Host]]|[x]||April 29, 2025 11:16 AM|NPC|
 |[[Wake of the Dragon/Characters/Roberre Jubilant - Merchant Princeling]]|[ ]||August 10, 2024 7:04 PM|NPC|
 |[[Wake of the Dragon/Characters/Alainne Retairre - Guardian Lorekeeper]]|[ ]||July 6, 2024 3:57 PM|NPC|
-|[[(Formerly) Kanto]]|[x]||April 29, 2025 11:17 AM|Current, NPC|
+|[[Murphred (Formerly Kanto)]]|[x]||April 29, 2025 11:17 AM|Current, NPC|
 |[[Crick]]|[x]||April 29, 2025 11:17 AM|NPC|
 |[[Wake of the Dragon/Characters/Nikria Therasan]]|[ ]||April 29, 2025 10:05 PM|Current, NPC, Villain|
 |[[Wake of the Dragon/Characters/Thrum Boska]]|[ ]||April 7, 2025 7:26 PM|NPC|

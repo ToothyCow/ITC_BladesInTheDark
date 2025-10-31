@@ -33,7 +33,7 @@ Description:
 [https://open.spotify.com/track/3DH7WEURyZjiAHnDbDD7s9?si=de4b0ad59cc843db](https://open.spotify.com/track/3DH7WEURyZjiAHnDbDD7s9?si=de4b0ad59cc843db)
 
 - Met [[Wake of the Dragon/Characters/Nikria Therasan]]
-    - He took captured satyr [[(Formerly) Kanto]] and awaits ransom note
+    - He took captured satyr [[Murphred (Formerly Kanto)]] and awaits ransom note
     - [[Wake of the Dragon/Characters/Marris Velka]] insisted the satyr be kept in the town jail, not in Raven’s Guild territory
 - Months pass, food supplies dwindle
     - Supernaturally hungry beast scouring the nearby forest
@@ -66,9 +66,9 @@ Confront [[Crick]]
     - [[Wake of the Dragon/Characters/Roberre Jubilant - Merchant Princeling]]
 - Research on Hags:
     - Check out [[Wake of the Dragon/Locations/Guardian Archives - Lesa]]
-    - Interrogate [[(Formerly) Kanto]]
+    - Interrogate [[Murphred (Formerly Kanto)]]
     - Search the woods for magical influence
-- Interrogate [[(Formerly) Kanto]]?
+- Interrogate [[Murphred (Formerly Kanto)]]?
     - “I trust the ransom negotiations are going well?” … “She, uh… she hasn't responded at all?”
     - Goals: figure out his role in this new story, get freed from jail
     - Problem: He’s really proud of his moves against [[Wake of the Dragon/Characters/Mother Deera]]
@@ -86,13 +86,13 @@ Confront [[Crick]]
 _Check off when revealed._
 
 - [ ] [[02 - Monsters/Monster Shortlist/Green Hag]] - Rhyme
-- [ ] [[(Formerly) Kanto]] got [[Wake of the Dragon/Characters/Mother Deera]] kicked out of her coven
-- [ ] [[(Formerly) Kanto]] is bewildered why he isn't the protagonist of this story
+- [ ] [[Murphred (Formerly Kanto)]] got [[Wake of the Dragon/Characters/Mother Deera]] kicked out of her coven
+- [ ] [[Murphred (Formerly Kanto)]] is bewildered why he isn't the protagonist of this story
 - [ ] [[Wake of the Dragon/Characters/Mother Deera]] has infiltrated [[Wake of the Dragon/Locations/Lesa]], planting ears and eyes everywhere
 - [ ] [[Wake of the Dragon/Characters/Carwin Steeljaw - Guardian Knight]] is getting worried about the amount of influence the Raven's Guild is wielding. At this point, it's questionable if the town can survive without their assistance
 - [ ] The Raven's Guild is hungry enough for power to consider seizing [[Wake of the Dragon/Locations/Lesa]] by force if they think it doable
 - [ ] [[Wake of the Dragon/Characters/Mother Deera]] is impersonating people around town to share secrets and sow discord
-- [ ] The Queen of Darkness is fed up with [[(Formerly) Kanto]]’s incompetence and failure, and is willing to let him rot in a mortal prison
+- [ ] The Queen of Darkness is fed up with [[Murphred (Formerly Kanto)]]’s incompetence and failure, and is willing to let him rot in a mortal prison
 
 # Fantastic Locations
 
@@ -117,7 +117,7 @@ _Below is a table view connected to the campaign database filtered to entries ma
 
 - [ ] Review [[NPC]]
 
-- [[(Formerly) Kanto]] - Still in jail, but Raven’s Guild wants to transport him back to base for “negotiations”
+- [[Murphred (Formerly Kanto)]] - Still in jail, but Raven’s Guild wants to transport him back to base for “negotiations”
 - [[Wake of the Dragon/Characters/Marris Velka]] - Worried about consolidation of power in Raven’s Guild, but doubtful they could survive without their help
 - [[Wake of the Dragon/Characters/Nikria Therasan]] - Working tirelessly to win goodwill and broker deals
 - [[Wake of the Dragon/Characters/Thrum Boska]] - A bit resentful that he hasn’t been more fully recognized for his role in things
@@ -130,7 +130,7 @@ _Below is a table view connected to the campaign database filtered to entries ma
 |Name|
 |---|
 |[[Wake of the Dragon/Characters/Nikria Therasan]]|
-|[[(Formerly) Kanto]]|
+|[[Murphred (Formerly Kanto)]]|
 
   
   

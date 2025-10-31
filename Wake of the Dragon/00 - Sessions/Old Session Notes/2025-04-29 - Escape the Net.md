@@ -97,7 +97,7 @@ LAST TIME:
 
 |Name|Tags|Current|Inventory|Last Edited|
 |---|---|---|---|---|
-|[[(Formerly) Kanto]]|Current, NPC|[x]||April 29, 2025 11:17 AM|
+|[[Murphred (Formerly Kanto)]]|Current, NPC|[x]||April 29, 2025 11:17 AM|
 |[[Crick]]|NPC|[x]||April 29, 2025 11:17 AM|
 |[[Wake of the Dragon/Characters/Queen of the Starry Host]]|NPC|[x]||April 29, 2025 11:16 AM|
 
@@ -115,7 +115,7 @@ LAST TIME:
     - Guilty that she let the Ravens in, guilty that she has failed to live up to her family’s legacy
     - Feels obligated to stay and do her best to protect the remaining people of the town as best she can
     - “Tell me, Holy Mother - can I ever atone for failing my people so utterly?”
-- [[(Formerly) Kanto]]’s escape plan
+- [[Murphred (Formerly Kanto)]]’s escape plan
     - “From what I heard, the creepy corpse wizards have turned out to be greedy and malicious! Heavens! Who could have foreseen such a twist?”
     - Turn central tree into a gateway to Feywild
     - Takes some time

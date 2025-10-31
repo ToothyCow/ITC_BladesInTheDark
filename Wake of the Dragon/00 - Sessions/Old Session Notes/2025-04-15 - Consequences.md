@@ -59,7 +59,7 @@ Check on how people feel about out-of-character knowledge
 - [[Wake of the Dragon/Characters/Carwin Steeljaw - Guardian Knight]] - Ally - Guardian Knight
 - [[Wake of the Dragon/Characters/Nikria Therasan]] - ??Ally?? - Raven’s Guildmaster
 - [[Wake of the Dragon/Characters/Thrum Boska]] - ??Ally?? - Raven’s Journeyman
-- [[(Formerly) Kanto]] - ??Ally?? - Satyr, the Beguiling Song
+- [[Murphred (Formerly Kanto)]] - ??Ally?? - Satyr, the Beguiling Song
 
 # Scenes
 
@@ -102,7 +102,7 @@ Check on how people feel about out-of-character knowledge
     - Block supply lines
     - Magicly block communication
     - Guardians who go to negotiate are killed
-- [[(Formerly) Kanto]]’s escape plan
+- [[Murphred (Formerly Kanto)]]’s escape plan
 
 # Secret and Clues
 
@@ -149,7 +149,7 @@ _Below is a table view connected to the campaign database filtered to entries ma
 |Name|
 |---|
 |[[Wake of the Dragon/Characters/Nikria Therasan]]|
-|[[(Formerly) Kanto]]|
+|[[Murphred (Formerly Kanto)]]|
 
   
   

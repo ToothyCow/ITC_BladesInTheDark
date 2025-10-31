@@ -38,7 +38,7 @@ Recap
 
 # Scenes
 
-- Interrogate [[(Formerly) Kanto]]
+- Interrogate [[Murphred (Formerly Kanto)]]
 - Downtime - Tavern
     - Meet [[Wallawallawushka “Walla” - Tavern Owner]]
     - [[Wake of the Dragon/Characters/Marris Velka]] owes [[Wake of the Dragon/Characters/Jared the Jester (Jubilant)]] a drink
@@ -111,7 +111,7 @@ _Below is a table view connected to the campaign database filtered to entries ma
 |Name|
 |---|
 |[[Wake of the Dragon/Characters/Nikria Therasan]]|
-|[[(Formerly) Kanto]]|
+|[[Murphred (Formerly Kanto)]]|
 
   
   

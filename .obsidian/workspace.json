@@ -59,12 +59,132 @@
             "id": "6de39840999dc861",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wake of the Dragon/00 - Sessions/2025-10-25 - Bekai Finale.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-25 - Bekai Finale"
+            }
+          },
+          {
+            "id": "110ccb579fff65c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wake of the Dragon/Characters/Murphred (Formerly Kanto).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Murphred (Formerly Kanto)"
+            }
+          },
+          {
+            "id": "8675f5988d4e5580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wake of the Dragon/Characters/Murphred (Formerly Kanto).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Murphred (Formerly Kanto)"
+            }
+          },
+          {
+            "id": "7f74e2c3750ee38b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wake of the Dragon/Characters/Murphred (Formerly Kanto).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Murphred (Formerly Kanto)"
+            }
+          },
+          {
+            "id": "30288d2c7be017bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wake of the Dragon/Characters/Murphred (Formerly Kanto).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Murphred (Formerly Kanto)"
+            }
+          },
+          {
+            "id": "a3556a354a606b78",
+            "type": "leaf",
+            "state": {
               "type": "image",
               "state": {
-                "file": "03 - Resources/Maps/Hall of Broken Promises - Vault - Stage 1.png"
+                "file": "Murphred, Drunken Master.png"
               },
               "icon": "lucide-image",
-              "title": "Hall of Broken Promises - Vault - Stage 1"
+              "title": "Murphred, Drunken Master"
             }
           }
         ],
@@ -217,14 +337,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38ce4a7c6f05a5dd",
+  "active": "6de39840999dc861",
   "lastOpenFiles": [
+    "Wake of the Dragon/Characters/Murphred (Formerly Kanto).md",
+    "Wake of the Dragon/00 - Sessions/2025-10-25 - Bekai Finale.md",
+    "Murphred, Drunken Master.png",
+    "Murphred, Drunken Master 2.png",
+    "03 - Resources/Crick.png",
+    "03 - Resources/Untitled 1.png",
+    "03 - Resources/Maps/Hall of Broken Promises - Vault - Stage 1.png",
     "03 - Resources/Maps/Hall of Broken Promises - Vault - Stage 4.png",
     "01 - Encounters/To Stop a Thief.md",
     "03 - Resources/Maps/Hall of Broken Promises - Vault - Stage 3.png",
     "03 - Resources/Maps/Hall of Broken Promises - Vault - Stage 2.png",
-    "03 - Resources/Maps/Hall of Broken Promises - Vault - Stage 1.png",
-    "Wake of the Dragon/00 - Sessions/2025-10-25 - Bekai Finale.md",
     "02 - Monsters/Monster Shortlist/Red Dragon - Wyrmling (Chromatic).md",
     "02 - Monsters/Monster Shortlist/Red Dragon - Young (Weakened).md",
     "02 - Monsters/Monster Shortlist/Red Dragon - Young (Chromatic).md",
@@ -247,19 +372,14 @@
     "02 - Monsters/Monster Shortlist/Shadow Fey.md",
     "02 - Monsters/Monster Shortlist/Skeleton.md",
     "02 - Monsters/Monster Shortlist/Wolf.md",
-    "Wake of the Dragon/00 - Sessions/Session Zero Notes/Session Zero Notes.md",
     "Wake of the Dragon/Locations/Bekai - City Map - Points of Interest.png",
     "03 - Resources/Maps/Bekai - City Map.jpg",
-    "03 - Resources/Bekai.jpg",
     "sync_repo.sh",
     "03 - Resources/AI Queries",
     "Wake of the Dragon/Lore",
     "Wake of the Dragon/Items",
     "Wake of the Dragon/Locations",
     "Wake of the Dragon/Factions",
-    "03 - Resources/Rudy Stonejaw.jpg",
-    "03 - Resources/Maps/Map_CrowdedWarehouse.jpg",
-    "03 - Resources/Bekai Warehouse Background.jpg",
     "Wake of the Dragon/Characters/Character Sheets/PREGEN_-_Cleric_-_Katya.pdf",
     "Wake of the Dragon/Characters/Character Sheets/DD_5e_Pregen_-_Fighter_3_(Battle_Master).pdf",
     "Wake of the Dragon/Characters/Character Sheets/DD_5e_Pregen_-_Bard_3_(Lore).pdf",

@@ -60,7 +60,7 @@ Description:
 
 # Scenes
 
-- Interrogate [[(Formerly) Kanto]]
+- Interrogate [[Murphred (Formerly Kanto)]]
     - “Greetings, my captors! I trust the ransom negotiations are going well?” … “She, uh… she hasn't responded at all?”
     - Goals: figure out his role in this new story, get freed from jail
     - Problem: He’s really proud of his moves against [[Wake of the Dragon/Characters/Mother Deera]]
@@ -137,7 +137,7 @@ _Below is a table view connected to the campaign database filtered to entries ma
 |Name|
 |---|
 |[[Wake of the Dragon/Characters/Nikria Therasan]]|
-|[[(Formerly) Kanto]]|
+|[[Murphred (Formerly Kanto)]]|
 
   
   

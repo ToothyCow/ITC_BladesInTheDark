@@ -18,4 +18,4 @@ Stats: [[Cackling Skeleton]]
 
   
 
-![[Untitled.png]]
+![[Crick.png]]

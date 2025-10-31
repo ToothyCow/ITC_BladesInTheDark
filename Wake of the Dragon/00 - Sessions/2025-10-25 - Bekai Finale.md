@@ -71,8 +71,9 @@ SORT file.name DESC
 	- News: [[Harold Jubilant]] nominated for Minister of Magical Research
 	- Gnomes working with Djinni
 	- Weeping Phoenix presence
-	- Seekers of the Flame rumored to be moving
-
+	- Catch up with [[Crick]] and [[Murphred (Formerly Kanto)]]
+		- Kanto now "Murphred", pending a better name
+		- Seekers of the Flame rumored to be moving, looking to attack Hall of Broken Promises
 ### Encounter - [[To Stop a Thief]]
 
 

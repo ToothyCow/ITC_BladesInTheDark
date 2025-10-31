@@ -39,7 +39,7 @@ Description:
     - Bag of Holding
     - Personal Items:
         - Bloodwell Vial
-- Interrogate [[(Formerly) Kanto]]
+- Interrogate [[Murphred (Formerly Kanto)]]
     - He was despondent that his mother has left him to rot
     - Party took him drinking in the tavern, Jared and Tav tried to keep up with the drinking. Jared is hammered, Tav is barely holding on, Kanto totally fine
     - Kanto shared his stories of the Fey court, especially proud of his moves against [[Wake of the Dragon/Characters/Mother Deera]]
@@ -139,7 +139,7 @@ _Below is a table view connected to the campaign database filtered to entries ma
 |Name|
 |---|
 |[[Wake of the Dragon/Characters/Nikria Therasan]]|
-|[[(Formerly) Kanto]]|
+|[[Murphred (Formerly Kanto)]]|
 
   
   
