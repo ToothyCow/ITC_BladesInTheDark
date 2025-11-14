@@ -68,7 +68,7 @@ SORT file.name DESC
 - Entertainment and Points of Interest:
 	- [[Hall of Broken Promises]] - 
 - Moments:
-	- News: [[Harold Jubilant]] nominated for Minister of Magical Research
+	- News: [[Harold Jubilant]] nominated for Minister of Magical Research 
 	- Gnomes working with Djinni
 	- Weeping Phoenix presence
 	- Catch up with [[Crick]] and [[Murphred (Formerly Kanto)]]
@@ -88,4 +88,7 @@ _Check off when revealed._
 - [ ] The Weeping Phoenix is gathering support in Bekai and in Ariosa City
 
 # Session Notes
-- XXX
+- Wishes
+	- First time someone tried to kill another with a wish
+	- First wish to become a genie
+- Tao failed corruption check, corruption level 3

@@ -4,6 +4,8 @@ tags:
 Current: true
 Category: Session
 ---
+Original - [[2025-09-16 - Warehouse Raid]]
+
 # Session Notes
 - Seekers of the Flame had [[Tao Xiloscient]] captured in a warehouse. [[Falafel]] and [[Rudy Stonejaw]] followed [[Mine]] to find it.
 - Falafel hears the Song of Flame from inside the warehouse, but resists

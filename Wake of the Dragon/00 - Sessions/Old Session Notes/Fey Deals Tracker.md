@@ -16,6 +16,6 @@ Description: A list of promises to the Fey, and progress towards fulfilling obli
 
 ## Jei:
 - Tell stories of the [[Queen of the Starry Host]] in 7 taverns in 7 months
-	- Time: 0/7
-	- Progress: 0/7
+	- Time: 1/7
+	- Progress: 2/7
 - In exchange: letter of recommendation

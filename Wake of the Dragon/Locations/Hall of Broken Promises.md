@@ -1,7 +1,6 @@
 Description:
-- XXX
 
-A museum-like vault of unfulfilled wishes — each sealed in crystal orbs that whisper their regret. The djinni scholars study them to “improve” future contracts.
+A museum-like vault of unfulfilled wishes — each sealed in crystal orbs that whisper their regret. The djinni scholars study them to “improve” future contracts.qws
 
 Given the sensitive nature of these unfulfilled wishes, there are numerous high-level magical defenses in place.
 - **Sentinel Stone Dragons**

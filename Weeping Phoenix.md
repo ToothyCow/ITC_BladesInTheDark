@@ -1,0 +1,1 @@
+Sect of [[Order of the Eternal Flame]] that has sworn to depose the tyrannical rule of [[Lord Murlond]] and reinstate the rightful rulers of the land.

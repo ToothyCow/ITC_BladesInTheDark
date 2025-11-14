@@ -19,7 +19,7 @@ Original: [[Red Dragon - Young (Chromatic)]]
 
 **Armor Class** 17 (natural armor)
 
-**Hit Points** 75 (10d8+30)
+**Hit Points** 178 (10d8+30)
 
 **Speed** 30 ft., climb 30 ft., fly 60 ft.
 
