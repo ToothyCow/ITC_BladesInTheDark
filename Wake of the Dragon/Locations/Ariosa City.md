@@ -10,7 +10,14 @@ Description: Capital of Ariosa
 > < [[01 - Inbox]]
 
 Theme: Ready for War, War Magic
-Set Pieces:
+Ministers:
+- Minister of Magic - [[Harold Jubilant]], emissary of the Ravens: -3
+- Minister of Commerce
+- Minister of Warfare
+- Minister of Education
+- Minister of Finance
 
 
 ![[Ariosa_Map.png]]
+
+![[Ariosa City (2).png]]

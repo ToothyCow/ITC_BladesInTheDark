@@ -27,9 +27,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wake of the Dragon/00 - Sessions/Old Session Notes/2025-10-25 - Summary - Bekai Finale.md",
+                "file": "Wake of the Dragon/Locations/Ariosa City.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-25 - Summary - Bekai Finale"
+              "title": "Ariosa City"
             }
           }
         ],
@@ -182,7 +182,9 @@
   },
   "active": "ad6424b844e8f142",
   "lastOpenFiles": [
+    "Ariosa City (2).png",
     "Wake of the Dragon/00 - Sessions/2025-11-13 - Arrival at Ariosa City.md",
+    "Wake of the Dragon/00 - Sessions/Old Session Notes/2025-10-25 - Summary - Bekai Finale.md",
     "Wake of the Dragon/Characters/Falafel.md",
     "Weeping Phoenix.md",
     "01 - Encounters/To Stop a Thief.md",
@@ -211,8 +213,6 @@
     "Wake of the Dragon/Characters/Chimess.md",
     "Wake of the Dragon/Characters/Craphos.md",
     "03 - Resources/Rudy Stonejaw.jpg",
-    "Wake of the Dragon/Characters/Rudy Stonejaw - Riane one-shot.md",
-    "Wake of the Dragon/00 - Sessions/Old Session Notes/2025-06-13 - City of Wonders Summary.md",
     "03 - Resources/Maps/Bekai - City Map.jpg",
     "03 - Resources/1000008244.jpg",
     "Backup/ObsidianDndVault/Wake of the Dragon/Characters/Character Sheets/PREGEN_-_Cleric_-_Katya.pdf",

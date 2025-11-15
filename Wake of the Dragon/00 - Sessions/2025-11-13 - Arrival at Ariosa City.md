@@ -74,11 +74,11 @@ SORT file.name DESC
 ### Vault Heist Aftermath
 - Djinn are in awe that you killed a juvenile dragon
 - [[Seekers of the Flame]] stole 4 wishes in the tumult, but quite low value - impossible wishes that could not be cast 
-	- a wish for the undying love of their daughter
+	- a wish for the undying love of a wayward daughter
 	- a wish to dominate all life on the planet
 	- a wish for the forgiveness of a deity
 	- a wish for everyone to agree to their requests.
-- Magic cannot permanently alter any mortal souls but that of the wisher.
+- Magic cannot permanently alter any soul, either mortal or divine, except that of the wisher.
 - [[Tao Xiloscient]] has noticeable corruption now
 	- She has "fed" recently, but the hunger will continue to grow
 	- If she "ascends" (corruption level 7), she will begin to transform into a dragon, and the Guardians will undoubtedly seek to kill her   
@@ -96,9 +96,14 @@ SORT file.name DESC
 - Sneak through checkpoints to enter the city
 	- Golems at every gate
 	- Soldiers with magitech spears, spellslingers, armor with eyes of hellfire
+	- Dragon-blood sensing glyphs
 
 ### Meet up with [[Weeping Phoenix]]
-- You enter a cramped 
+- A cramped, musty apartment building in the bad part of the city
+- Inside the apartment, clean air, subtle incense, gentle candles, beautiful tapestries
+- Main room dominated by a large table, currently with a map of the city rolled out on it
+- Standing around it are several guardians, merchants, and even some guardsmen.
+- Among them stands a slight tiefling, with purple skin and horns. He wears ornate robes, and has a book on a chain hanging from his belt.
 
 
 # Secret and Clues
@@ -108,6 +113,7 @@ _Check off when revealed._
 - [ ] [[Tao Xiloscient]]'s father was a member of the [[Seekers of the Flame]]
 - [ ] Dragons feed on domination, subjugating others to their will
 - [ ] The [[Weeping Phoenix]] is gathering support in [[Ariosa City]]
+- [ ] Falafel's brother [[Incense]]
 - [ ] [[Falafel]]'s brother [[Incense]] is in [[Ariosa City]]
 
 # Session Notes
