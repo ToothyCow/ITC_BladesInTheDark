@@ -32,15 +32,99 @@
             }
           },
           {
-            "id": "c58384026612e1f9",
+            "id": "8875e700977240e2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "Wake of the Dragon/Locations/Ariosa City.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "Ariosa City"
+            }
+          },
+          {
+            "id": "ee477f626a7bb346",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wake of the Dragon/Locations/Ariosa City.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ariosa City"
+            }
+          },
+          {
+            "id": "6f99fca70d72ce48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wake of the Dragon/00 - Sessions/Old Session Notes/2025-10-25 - Summary - Bekai Finale.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-25 - Summary - Bekai Finale"
+            }
+          },
+          {
+            "id": "f4a668c284175a21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wake of the Dragon/Locations/Ariosa City.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ariosa City"
             }
           },
           {
@@ -139,8 +223,7 @@
               "title": "Fey Deals Tracker"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -289,13 +372,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c58384026612e1f9",
+  "active": "38ce4a7c6f05a5dd",
   "lastOpenFiles": [
+    "Wake of the Dragon/Locations/Ariosa City.md",
+    "03 - Resources/Maps/Ariosa_Map.png",
+    "Wake of the Dragon/00 - Sessions/2025-11-13 - Arrival at Ariosa City.md",
+    "Wake of the Dragon/00 - Sessions/Old Session Notes/2025-10-25 - Summary - Bekai Finale.md",
     "Wake of the Dragon/00 - Sessions/Old Session Notes/2025-09-16 - Warehouse Raid.md",
     "Wake of the Dragon/00 - Sessions/Old Session Notes/2025-09-16 - Warehouse Raid Summary.md",
     "Wake of the Dragon/00 - Sessions/Old Session Notes/2025-10-25 - Bekai Finale.md",
-    "Wake of the Dragon/00 - Sessions/Old Session Notes/2025-10-25 - Summary - Bekai Finale.md",
-    "Wake of the Dragon/00 - Sessions/2025-11-13 - Arrival at Ariosa City.md",
     "Incense.md",
     "Weeping Phoenix.md",
     "Wake of the Dragon/00 - Sessions/Old Session Notes/Fey Deals Tracker.md",
@@ -317,7 +402,6 @@
     "03 - Resources/Character Art/WyrmlingRedDragon.png",
     "03 - Resources/Backgrounds/urbex-flyer-creepyforest.jpg",
     "03 - Resources/Character Art/Untitled 7.png",
-    "03 - Resources/Character Art/Untitled 6.png",
     "03 - Resources/Backgrounds",
     "03 - Resources/Character Art",
     "00 - Templates/Encounter Template.md",
@@ -327,8 +411,6 @@
     "Wake of the Dragon/00 - Sessions/Old Session Notes/2024-07-06 - A Game of Bones and Warts.md",
     "02 - Monsters/Forge of Foes Monster Stats.md",
     "02 - Monsters/Monster Shortlist/Blighted Bear.md",
-    "02 - Monsters/Monster Shortlist/Dryad.md",
-    "02 - Monsters/Monster Shortlist/Flesh Golem.md",
     "sync_repo.sh",
     "03 - Resources/AI Queries",
     "Wake of the Dragon/Lore",

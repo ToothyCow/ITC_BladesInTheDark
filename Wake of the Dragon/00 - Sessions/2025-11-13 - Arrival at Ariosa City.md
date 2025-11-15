@@ -60,7 +60,7 @@ SORT file.name DESC
 # Scenes
 
 ### *Strong Start -  An Offer of Employment*
-- [[Jei Malva]] wakes up to [[Mine]] coiled on her stomach like a cat, standing guard
+- [[Jei Malva]] wakes up with [[Mine]] coiled on her stomach like a cat, standing guard
 - Ihaiir - "I see you're made of strong stuff indeed."
 	- References conversation with [[Chimess]] - See [[2025-09-16 - Warehouse Raid]]
 - Offers employment, not servitude
@@ -82,6 +82,23 @@ SORT file.name DESC
 - [[Tao Xiloscient]] has noticeable corruption now
 	- She has "fed" recently, but the hunger will continue to grow
 	- If she "ascends" (corruption level 7), she will begin to transform into a dragon, and the Guardians will undoubtedly seek to kill her   
+- Party rewarded with transport - their own airship
+
+### To [[Ariosa City]]
+
+### Entrance
+- Setting:
+	- As you approach the city, the first thing you see are the walls, towering into the sky
+	- Glow with a prismatic energy, fluctuating between colors
+	- Armed with ballista aimed at the sky
+	- Towers of the Guardian Orders stab defiantly into the sky
+	- Onyx Palace stands in the center
+- Sneak through checkpoints to enter the city
+	- Golems at every gate
+	- Soldiers with magitech spears, spellslingers, armor with eyes of hellfire
+
+### Meet up with [[Weeping Phoenix]]
+- You enter a cramped 
 
 
 # Secret and Clues

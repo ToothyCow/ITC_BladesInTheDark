@@ -25,9 +25,11 @@ Original - [[2025-10-25 - Bekai Finale]]
 - Investigated Hall of Broken Promises - defenses solid
 - Decided to watch the closed vault door, realized that there was some sort of spatial distortion
 - Found a bubble of warped space over the vault, disguising the real (open) door
-- See a dragon pulling his way through a rip in reality
+- See a dragon pulling his way through a rip in reality - same dragon that held Tao captive
+- Traps weaken, have a fighting chance
 
 - Party tried to use wishes in the vault
 	- First time someone tried to kill another with a wish
 	- First wish to become a genie
+- Killed dragon in less than 3 rounds
 - Tao failed corruption check, corruption level 3

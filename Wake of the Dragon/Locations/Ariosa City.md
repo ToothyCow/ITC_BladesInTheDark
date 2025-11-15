@@ -9,3 +9,8 @@ Description: Capital of Ariosa
 ---
 > < [[01 - Inbox]]
 
+Theme: Ready for War, War Magic
+Set Pieces:
+
+
+![[Ariosa_Map.png]]
