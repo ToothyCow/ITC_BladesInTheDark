@@ -18,24 +18,16 @@ Original - [[2025-10-25 - Bekai Finale]]
 	- News: [[Harold Jubilant]] nominated for Minister of Magical Research 
 	- Gnomes working with Djinni
 	- Weeping Phoenix presence
-	- Catch up with [[Crick]] and [[Murphred (Formerly Kanto)]]
+	- Catch up with [[Crick]] and [[Murphred (Formerly Kanto)]], rescued Crick from being sold by sketchy merchant
 		- Kanto now "Murphred", pending a better name
 		- Seekers of the Flame rumored to be moving, looking to attack Hall of Broken Promises
 ### Encounter - [[To Stop a Thief]]
+- Investigated Hall of Broken Promises - defenses solid
+- Decided to watch the closed vault door, realized that there was some sort of spatial distortion
+- Found a bubble of warped space over the vault, disguising the real (open) door
+- See a dragon pulling his way through a rip in reality
 
-
-# Secret and Clues
-
-_Check off when revealed._
-
-- [ ] [[Tao Xiloscient]]'s father was a member of the [[Seekers of the Flame]]
-- [x] [[Seekers of the Flame]] have a cult base in [[Blazing Bekai]]
-- [x] Dragons are made from magic users ascending through a dark ritual
-- [ ] Dragons feed on domination, subjugating others to their will
-- [ ] The Weeping Phoenix is gathering support in Bekai and in Ariosa City
-
-# Session Notes
-- Wishes
+- Party tried to use wishes in the vault
 	- First time someone tried to kill another with a wish
 	- First wish to become a genie
 - Tao failed corruption check, corruption level 3

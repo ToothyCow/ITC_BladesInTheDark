@@ -20,6 +20,9 @@ CHA: "+1"
 
 Former noble. Unsure of what happened to her parents, but she was raised in the palace. While snooping, she discovered a dragon cult operating in the palace, and that the king, her grandfather, was involved. She escaped without being noticed (as far as she knows), and joined the clergy to escape gracefully.
 
+Brother: [[Incense]]
+Order: [[Weeping Phoenix]]
+
 She was a very dutiful child, who was drawn to religion at an early age. She served as the well-meaning oldest child of the royal children
 
 
