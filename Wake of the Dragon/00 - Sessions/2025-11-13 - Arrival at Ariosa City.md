@@ -68,7 +68,7 @@ SORT file.name DESC
 	- "I shall free those unjustly held captive wherever I go. I will never help a slaver except as a means to free the enslaved."
 	- "I shall seek to acquire the vessels of any djinn held in captivity, whether justly or not, and return them to the Djinn Collective."
 	- "I shall never knowingly work against the interests of the Djinn Collective, except as a means to expose the enemies of the Djinn Collective."
-	- "I shall pay 50% of my earnings in all my endeavors to my patron."
+	- "I shall pay 35% of my earnings in all my endeavors to my patron."
 		- If she seems to accept without a second thought - "Pause, Jei. A lesson for you - numbers must always be in conversation with each other. 50% is far too high for someone of your unique skillset. Try a counter offer."
 
 ### Vault Heist Aftermath
@@ -81,7 +81,7 @@ SORT file.name DESC
 - Magic cannot permanently alter any soul, either mortal or divine, except that of the wisher.
 - [[Tao Xiloscient]] has noticeable corruption now
 	- She has "fed" recently, but the hunger will continue to grow
-	- If she "ascends" (corruption level 7), she will begin to transform into a dragon, and the Guardians will undoubtedly seek to kill her   
+	- If she "ascends" (corruption level 7), she will begin to transform into a dragon, and the Guardians will undoubtedly seek to kill her
 - Party rewarded with transport - their own airship
 
 ### To [[Ariosa City]]
@@ -117,4 +117,16 @@ _Check off when revealed._
 - [ ] [[Falafel]]'s brother [[Incense]] is in [[Ariosa City]]
 
 # Session Notes
-- XXX
+- Samantha and Tao won tournament
+	- Boon?
+- Jared sought out illegal magic - enchantment, subtle spell
+	- Feat - Metamagic Adept
+- Jei studied Djinn history, practiced her Warlock magic
+	- Feat - Eldritch Adept
+- Falafel talked with her brother in her dreams
+	- Lore drop
+	- Feat - Magic Initiate, Druid
+- Ship name = The Flaming Looooun
+- Falafel in prison
+- Visited by ruler
+- Rest of the party met up with [[Incense]], planning jailbreak

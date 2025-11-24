@@ -21,6 +21,7 @@ Original - [[2025-10-25 - Bekai Finale]]
 	- Catch up with [[Crick]] and [[Murphred (Formerly Kanto)]], rescued Crick from being sold by sketchy merchant
 		- Kanto now "Murphred", pending a better name
 		- Seekers of the Flame rumored to be moving, looking to attack Hall of Broken Promises
+
 ### Encounter - [[To Stop a Thief]]
 - Investigated Hall of Broken Promises - defenses solid
 - Decided to watch the closed vault door, realized that there was some sort of spatial distortion
