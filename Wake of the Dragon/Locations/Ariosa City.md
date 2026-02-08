@@ -11,7 +11,7 @@ Description: Capital of Ariosa
 
 Theme: Ready for War, War Magic
 Ministers:
-- Minister of Magic - [[Harold Jubilant]], emissary of the Ravens: -3
+- Minister of Magic - [[Lord Harold Jubilant]], emissary of the Ravens: -3
 - Minister of Commerce
 - Minister of Warfare
 - Minister of Education

@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wake of the Dragon/00 - Sessions/2026-01-28 - Paint the Capital Red.md",
+                "file": "Leoril the Wanderer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-28 - Paint the Capital Red"
+              "title": "Leoril the Wanderer"
             }
           }
         ],
@@ -164,9 +164,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "1978020b4a4c7b5e",
+        "type": "leaf",
+        "state": {
+          "type": "PROGRESS_CLOCKS_VIEW",
+          "state": {},
+          "icon": "pie-chart",
+          "title": "Progress Clocks"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,8 +192,23 @@
   },
   "active": "ad6424b844e8f142",
   "lastOpenFiles": [
-    "Wake of the Dragon/00 - Sessions/Old Session Notes/2025-09-16 - Warehouse Raid.md",
+    "Ariosa War Map.md",
+    "Leoril the Wanderer.md",
+    "Captain Seamus of the Ironroad.md",
+    "Wake of the Dragon/Characters/Lord Harold Jubilant.md",
     "Wake of the Dragon/00 - Sessions/2026-01-28 - Paint the Capital Red.md",
+    "TRANSFER - Blades/Erik notes.md",
+    "TRANSFER - Blades",
+    "Lord Seamus Wanderfoot.md",
+    "Father Drochy.md",
+    "The Five Sages.md",
+    "00 - Templates/NPC Template.md",
+    "Professor Veyloch.md",
+    "Negotiation Personality Traits.md",
+    "04 - GM Tips/Draw Steel Negotiations.md",
+    "Lord General Grulf.md",
+    "Dominus Caius.md",
+    "Wake of the Dragon/00 - Sessions/Old Session Notes/2025-09-16 - Warehouse Raid.md",
     "Wake of the Dragon/Party View.md",
     "Wake of the Dragon/00 - Sessions/2025-11-13 - Summary - Arrival at Ariosa City.md",
     "Wake of the Dragon/Locations/Ariosa City.md",
@@ -195,24 +220,10 @@
     "01 - Encounters/To Stop a Thief.md",
     "Wake of the Dragon/00 - Sessions/2025-10-25 - Bekai Finale.md",
     "02 - Monsters/Monster Shortlist/Wyrmling Red Dragon (Chromatic).md",
-    "Wake of the Dragon/00 - Sessions/2025-09-16 - Bekai Finale.md",
-    "To Stop a Thief.md",
-    "Golden Crucible.md",
-    "03 - Resources/AI Queries/Session Planning - Djinni Bazaar.md",
-    "03 - Resources/AI Queries/Session Planning - Bulette Race.md",
-    "03 - Resources/AI Queries/Session Planning - Bank Heist.md",
     "03 - Resources/AI Queries",
-    "01 - Encounters/Warehouse Raid.md",
-    "Wake of the Dragon/00 - Sessions/2025-09-16 - Warehouse Raid.md",
-    "ZZ - Git Sync Tutorial.md",
-    "Wake of the Dragon/Factions/Seekers of the Flame.md",
     "kscak6cd9rq31.jpg",
-    "Wake of the Dragon/00 - World of 'Wake of the Dragon' - MOC.md",
     "03 - Resources/Bekai Warehouse Background.jpg",
-    "02 - Monsters/Wyrmling Red Dragon (Chromatic).md",
-    "Wake of the Dragon/Factions/Wandbreakers.md",
     "03 - Resources/Maps/Map_CrowdedWarehouse.jpg",
-    "03 - Resources/00 - Random Generators.md",
     "03 - Resources/Rudy Stonejaw.jpg",
     "03 - Resources/Maps/Bekai - City Map.jpg",
     "03 - Resources/1000008244.jpg",
@@ -226,7 +237,6 @@
     "Backup/ObsidianDndVault/03 - Resources/Maps/Bekai City Map.jpg",
     "Backup/ObsidianDndVault/03 - Resources/Maps/Bekai - City Map.jpg",
     "Backup/ObsidianDndVault/03 - Resources/DND.SRD.Wiki-main/Treasure",
-    "Backup/ObsidianDndVault/03 - Resources/DND.SRD.Wiki-main/Treasure (Alt)",
     "Backup/ObsidianDndVault/03 - Resources/DND.SRD.Wiki-main/RE&.logo.png"
   ]
 }

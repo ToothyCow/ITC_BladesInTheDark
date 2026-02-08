@@ -20,8 +20,8 @@ Category: Session
 
 ### Open Questions
 - [[Tao Xiloscient]] - What is the [[Song of Flame]]? How is it affecting her? Corruption = 3
-- [[Jared the Jester (Jubilant)]] - What is his father, [[Harold Jubilant]], doing with the Ravens Guild? What will he do with enchantment magic?
-- [[Falafel]] - What are her next steps to retake the throne? What is her relationship with [[Despot]]?
+- [[Jared the Jester (Jubilant)]] - What is his father, [[Lord Harold Jubilant]], doing with the Ravens Guild? What will he do with enchantment magic?
+- [[Falafel]] - What are her next steps to retake the throne? What is her relationship with [[Dominus Caius]]?
 - [[Jei Malva]] - What does she want long-term? How will [[Chimess]] get her revenge?
 - [[Samantha Murph]] - Who is [[Doland Murphisonian]], and how does Samantha know him?
 
@@ -66,10 +66,13 @@ SORT file.name DESC
 		- Guards everywhere
 		- Alarm system
 		- Anti-Dragon Wards
+	- Players:
+		- Ravens Guild - Want to silence her quietly
+		- Prison Guards - On orders to protect the prisoners
+			- How many are on the Ravens' payroll?
+		- Guardians - Expect there to be some foul play
 
-### Leaders of Ariosa
-- Secretary of Magic - [[Harold Jubilant]]
-- Secretary of 
+### [[Ariosa War Map]]
 
 
 # Secret and Clues

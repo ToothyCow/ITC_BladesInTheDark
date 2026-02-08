@@ -21,7 +21,7 @@ Category: Session
 
 ### Open Questions
 - [[Tao Xiloscient]] - What is the [[Song of Flame]]?
-- [[Jared the Jester (Jubilant)]] - What is his father, [[Harold Jubilant]], doing with the Ravens Guild?
+- [[Jared the Jester (Jubilant)]] - What is his father, [[Lord Harold Jubilant]], doing with the Ravens Guild?
 - [[Falafel]] - What are her next steps to retake the throne?
 - [[Jei Malva]] - Will she use the letter of recommendation to escape her current contract? How did she end up in her current contract? What does she want long-term?
 - [[Samantha Murph]] - Who is [[Doland Murphisonian]], and how does Samantha know him?

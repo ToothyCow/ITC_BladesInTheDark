@@ -1,0 +1,10 @@
+### Leaders of Ariosa
+- Minister of Magic and Technology - [[Lord Harold Jubilant]]
+	- Allies: [[Leoril the Wanderer]], [[Captain Seamus of the Ironroad]]
+	- Enemies: [[Lord General Grulf]], [[Father Drochy]], [[Lord Seamus Wanderfoot]]
+- Minister of Education - [[Professor Veyloch]]
+- Military - [[Lord General Grulf]]
+- Minister of Cultivation - [[Father Drochy]]
+- Minister of the Treasury - [[Lord Seamus Wanderfoot]]
+- Minister of Foreign Affairs - [[Leoril the Wanderer]]
+- Captain of the Guard - [[Captain Seamus of the Ironroad]]

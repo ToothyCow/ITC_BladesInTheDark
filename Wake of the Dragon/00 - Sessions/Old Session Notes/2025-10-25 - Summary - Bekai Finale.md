@@ -15,7 +15,7 @@ Original - [[2025-10-25 - Bekai Finale]]
 - Entertainment and Points of Interest:
 	- [[Hall of Broken Promises]] - 
 - Moments:
-	- News: [[Harold Jubilant]] nominated for Minister of Magical Research 
+	- News: [[Lord Harold Jubilant]] nominated for Minister of Magical Research 
 	- Gnomes working with Djinni
 	- Weeping Phoenix presence
 	- Catch up with [[Crick]] and [[Murphred (Formerly Kanto)]], rescued Crick from being sold by sketchy merchant
