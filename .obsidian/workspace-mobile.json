@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/Characters/Erik Notes.md",
+                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/Session 0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Erik Notes"
+              "title": "Session 0"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ITC 2026 - Will Of The Wisps/Characters/Erik Notes.md",
+            "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/Session 0.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ITC 2026 - Will Of The Wisps/Characters/Erik Notes.md",
+            "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/Session 0.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ITC 2026 - Will Of The Wisps/Characters/Erik Notes.md",
+            "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/Session 0.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -153,9 +153,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "d3921727dae45992",
+        "type": "leaf",
+        "state": {
+          "type": "PROGRESS_CLOCKS_VIEW",
+          "state": {},
+          "icon": "pie-chart",
+          "title": "Progress Clocks"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,8 +181,8 @@
   },
   "active": "ffb071ae26818dd9",
   "lastOpenFiles": [
-    "ITC 2026 - Will Of The Wisps/Characters/Phin Keel.md",
     "ITC 2026 - Will Of The Wisps/Characters/Erik Notes.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Phin Keel.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Session 0.md",
     "Phin Keel.md",
     "01 - Scenarios and Scores/Steal the Crows' War Treasury.md"
