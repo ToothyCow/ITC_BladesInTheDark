@@ -1,0 +1,17 @@
+{
+  "state": {
+    "sections": [
+      {
+        "name": "Main",
+        "children": [
+          {
+            "type": "clock",
+            "name": "Test",
+            "segments": 8,
+            "filled": 3
+          }
+        ]
+      }
+    ]
+  }
+}
