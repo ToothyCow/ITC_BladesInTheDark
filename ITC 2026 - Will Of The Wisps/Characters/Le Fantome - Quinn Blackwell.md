@@ -1,0 +1,8 @@
+- Friend: Roslyn Kellis, Noble
+	- Both share interests in occult
+	- Both into luxury, high fashion
+	- *Is she a member of a secret society?*
+- Enemy: Darmot, Bluecoat
+	- Knows she's paying her way out of trouble
+- Vice: Pleasure
+	- Lives for the thrill of theft, taking the rare, the unobtainable
