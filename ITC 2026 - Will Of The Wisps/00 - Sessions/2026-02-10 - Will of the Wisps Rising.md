@@ -7,8 +7,9 @@ Current: true
 ---
 
 # To Do
-
-- [ ] Review the characters
+- [ ] [[Characters MOC]] 
+- [ ] [[Factions MOC]]
+- [ ] [[Scenarios MOC]]
 
 # Party View
 - Erika - [[Le Fantome - Quinn Blackwell]]

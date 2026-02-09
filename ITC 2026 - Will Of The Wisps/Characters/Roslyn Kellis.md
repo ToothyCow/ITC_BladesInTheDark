@@ -1,4 +1,10 @@
-### Handler for [[The Hive]], Merchant, Heiress, Smarter than she seems
+---
+tags:
+  - NPC
+  - Contact
+  - Ally
+---
+### Handler for [[Hive]], Merchant, Heiress, Smarter than she seems
 Relaxed airhead, light British accent, Glinda "Hmmm", twirls a coin across her fingers
 *Background*
 

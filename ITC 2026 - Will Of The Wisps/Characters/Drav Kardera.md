@@ -1,3 +1,7 @@
+---
+tags:
+  - PC
+---
 - Friend: Bazso Baz, Lampblack Leader
 	- Drav provides info, Baz knocks down targets
 - Enemy: Harker, Jail-Bird

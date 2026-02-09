@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/01 - Long-Term Planning/2026-02-08 - Planning Notes.md",
+                "file": "02 - GM Tips and Resources/THE SHATTERED ISLES.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -24,11 +24,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-08 - Planning Notes"
+              "title": "THE SHATTERED ISLES"
             }
           }
         ]
@@ -190,29 +190,44 @@
   },
   "active": "ffb071ae26818dd9",
   "lastOpenFiles": [
-    "PXL_20260209_022940676.MP.jpg",
-    "PXL_20260209_022930690.MP.jpg",
-    "PXL_20260209_022917182.MP.jpg",
     "01 - Scenarios and Scores/Steal the Crows' War Treasury.md",
-    "ITC 2026 - Will Of The Wisps/01 - Long-Term Planning/2026-02-08 - Planning Notes.md",
-    "ITC 2026 - Will Of The Wisps/01 - Long-Term Planning",
-    "PXL_20260209_022805986.jpg",
-    "PXL_20260209_022754401.MP.jpg",
-    "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-02-10 - Will of the Wisps Rising.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Le Fantome - Quinn Blackwell.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Roslyn Kellis.md",
-    "00 - Templates/NPC Template.md",
-    "00 - Templates/Character Template.md",
-    "02 - GM Tips and Resources/Blades-in-the-Dark-SRD.md",
-    "Mistress Kember.md",
-    "The Devil's Tooth tavern.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Erik Notes.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Phin Keel.md",
-    "Will of the Wisps.md",
-    "00 - Templates/Session Template.md",
-    "ITC 2026 - Will Of The Wisps/00 - Sessions/Session 0.md",
+    "02 - GM Tips and Resources/THE SHATTERED ISLES.md",
     "01 - Scenarios and Scores/War in Crow's Foot.md",
-    "Drav Kardera.md",
-    "Phin Keel.md"
+    "00 - Templates/Scenario Template.md",
+    "Scenarios MOC.md",
+    "Scores Table.md",
+    "Scores Table 2.png",
+    "Scores Table 1.png",
+    "00 - Templates/Scenar.md",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-02-10 - Will of the Wisps Rising.md",
+    "00 - Templates/Session Template.md",
+    "Factions MOC.md",
+    "Crow's Foot.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Hive.md",
+    "Characters MOC.md",
+    "Lyssa.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Will of the Wisps.md",
+    "Charterhall.md",
+    "Charterhall Info 2.png",
+    "Charterhall Info 1.png",
+    "ITC 2026 - Will Of The Wisps/Locations/The Devil's Tooth Tavern.md",
+    "00 - Templates/Location Template.md",
+    "00 - Templates/NPC Template.md",
+    "02 - GM Tips and Resources/Duskvol Districts.md",
+    "Duskvol Map Key.png",
+    "Duskvol Map.png",
+    "ITC 2026 - Will Of The Wisps/Characters/Drav Kardera.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Le Fantome - Quinn Blackwell.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Phin Keel.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Mistress Kember.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Roslyn Kellis.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Circle of Flame.md",
+    "ITC 2026 - Will Of The Wisps/Locations",
+    "02 - GM Tips and Resources/Pictures",
+    "02 - GM Tips and Resources/Pictures/PXL_20260209_022940676.MP.jpg",
+    "02 - GM Tips and Resources/Pictures/PXL_20260209_022930690.MP.jpg",
+    "02 - GM Tips and Resources/Pictures/PXL_20260209_022917182.MP.jpg",
+    "ITC 2026 - Will Of The Wisps/01 - Long-Term Planning",
+    "02 - GM Tips and Resources/Pictures/PXL_20260209_022805986.jpg"
   ]
 }

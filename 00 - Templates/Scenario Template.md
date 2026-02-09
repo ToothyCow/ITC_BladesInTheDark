@@ -10,8 +10,7 @@ tags:
 - *Nearby Locations*
 
 ### Players
-- Target: [[Crows]]
-	- Leader - [[Lyssa]]
+- *Who is the target*
 - *Other interested parties*
 
 ### Opportunities
@@ -21,5 +20,3 @@ tags:
 - *Secret*
 
 ![[Scores Table]]
-
-![[PXL_20260209_022754401.MP.jpg]]![[PXL_20260209_022805986.jpg]]

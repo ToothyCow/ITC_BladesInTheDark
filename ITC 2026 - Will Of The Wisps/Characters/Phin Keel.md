@@ -1,3 +1,7 @@
+---
+tags:
+  - PC
+---
 - Friend: Setarra, Sea Demon
 	- Saved Phin from drowning when his brother's ship was destroyed by Lord Scurlock
 - Enemy: Lord Scurlock

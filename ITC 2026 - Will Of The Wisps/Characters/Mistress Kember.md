@@ -1,8 +1,9 @@
 ---
 tags:
   - NPC
+  - Vice
 ---
-### Glance
+### Owner of [[The Devil's Tooth Tavern]] - Discrete, Ruthless, Member of [[Circle of Flame]]
 *Quick RP Descriptors - posture, voice/speech patterns, gestures*
 *Background*
 
