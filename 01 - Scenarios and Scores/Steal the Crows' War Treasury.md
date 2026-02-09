@@ -3,7 +3,8 @@ tags:
   - Scenario
 ---
 ### Glance
-*Quick summary of relevant info*
+- The [[Crows]] are under new management, and pushing [[Hive]] merchants too hard. The Hive wants to cut them off at the knees and fund additional protection in one fell swoop.
+- Additionally, Hive leadership has expressed interest in knowing what happened to [[Roric]], former boss of the Crows. A bonus will be given for information regarding his status and whereabouts 
 
 ### Location
 - *District*
