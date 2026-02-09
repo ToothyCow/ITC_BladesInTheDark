@@ -19,4 +19,4 @@ But, I wanted to throw out a couple of ideas for a little more character context
 - Keel believes that Scurlock ordered the assassination and destroyed the refugee flotilla to finally destroy the Skovlan royal line. Keel also assumes that he was saved by Setarra for some purpose related to the eventual reestablishment of the Skovlan royal house, but he is not sure.
 - Though it has been over 2 years since the attack on the flotilla, Keel believes that Sten's ghost still "survives" and Keel is driven to find his brother's spirit.
 
-On a separate note, I think Mistress Kember of the Devil's Tooth tavern would be an appropriate vice purveyor.
+On a separate note, I think [[Mistress Kember]] of [[The Devil's Tooth tavern]] would be an appropriate vice purveyor.

@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/Session 0.md",
+                "file": "ITC 2026 - Will Of The Wisps/01 - Long-Term Planning/2026-02-08 - Planning Notes.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Session 0"
+              "title": "2026-02-08 - Planning Notes"
             }
           }
         ]
@@ -175,16 +185,34 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
   "active": "ffb071ae26818dd9",
   "lastOpenFiles": [
+    "PXL_20260209_022940676.MP.jpg",
+    "PXL_20260209_022930690.MP.jpg",
+    "PXL_20260209_022917182.MP.jpg",
+    "01 - Scenarios and Scores/Steal the Crows' War Treasury.md",
+    "ITC 2026 - Will Of The Wisps/01 - Long-Term Planning/2026-02-08 - Planning Notes.md",
+    "ITC 2026 - Will Of The Wisps/01 - Long-Term Planning",
+    "PXL_20260209_022805986.jpg",
+    "PXL_20260209_022754401.MP.jpg",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-02-10 - Will of the Wisps Rising.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Le Fantome - Quinn Blackwell.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Roslyn Kellis.md",
+    "00 - Templates/NPC Template.md",
+    "00 - Templates/Character Template.md",
+    "02 - GM Tips and Resources/Blades-in-the-Dark-SRD.md",
+    "Mistress Kember.md",
+    "The Devil's Tooth tavern.md",
     "ITC 2026 - Will Of The Wisps/Characters/Erik Notes.md",
     "ITC 2026 - Will Of The Wisps/Characters/Phin Keel.md",
+    "Will of the Wisps.md",
+    "00 - Templates/Session Template.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Session 0.md",
-    "Phin Keel.md",
-    "01 - Scenarios and Scores/Steal the Crows' War Treasury.md"
+    "01 - Scenarios and Scores/War in Crow's Foot.md",
+    "Drav Kardera.md",
+    "Phin Keel.md"
   ]
 }

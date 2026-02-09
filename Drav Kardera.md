@@ -1,0 +1,11 @@
+- Friend: Bazso Baz, Lampblack Leader
+	- Drav provides info, Baz knocks down targets
+- Enemy: Harker, Jail-Bird
+	- Drav was an associate, but framed her to get an in with a high-level target
+	- No hard feelings, just business
+- Originally academic, self-taught
+	- Came from working class
+	- Drawn to the occult to find a way to undo the Empire
+- Vice: Luxury
+	- Needs to feel like he's finally arrived, escaped poverty
+	- Needs to be seen by others, to be recognized and acknowledged

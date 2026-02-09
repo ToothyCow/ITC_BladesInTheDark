@@ -1,4 +1,4 @@
-- Friend: Roslyn Kellis, Noble
+- Friend: [[Roslyn Kellis]], Noble
 	- Both share interests in occult
 	- Both into luxury, high fashion
 	- *Is she a member of a secret society?*

@@ -1,0 +1,12 @@
+- Benevolence
+- Discovery
+- Freedom
+- Greed
+- Higher Authority
+- Justice
+- Legacy
+- Peace
+- Power
+- Protection
+- Revelry
+- Vengeance
