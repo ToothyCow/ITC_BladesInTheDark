@@ -3,15 +3,15 @@ tags:
   - Scenario
 ---
 ### Glance
-- The [[Crows]] are under new management, and pushing [[Hive]] merchants too hard. The Hive wants to cut them off at the knees and fund additional protection in one fell swoop.
-- Goal: Steal the War Treasury, leave no trace or connection back to The Hive. Killing acceptable, but distasteful
+- The [[Crows]] are under new management, [[Lyssa]], and have shifted from a mutually beneficial protection agreement to aggressively shaking down [[Hive]] merchants. The Hive wants to cut the Crows off at the knees and fund new protection in one fell swoop.
+- Goal: Steal the War Treasury, leave no trace or connection back to The Hive. Killing is acceptable, but distasteful
 - Additionally, Hive leadership has expressed interest in knowing what happened to [[Roric]], former boss of the Crows. A bonus will be given for information regarding his status and whereabouts
 
 ### Complications
 - War between [[Lampblacks]] and [[Red Sashes]]
 
 ### Location
-- *[[Duskvol Districts]]*
+- [[Crow's Foot]]
 - *Nearby Locations*
 
 ### Players

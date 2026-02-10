@@ -1,3 +1,8 @@
+---
+tags:
+  - Location
+---
+
 ![[Charterhall Info 1.png]]
 ![[Charterhall Info 2.png]]
 

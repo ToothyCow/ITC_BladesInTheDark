@@ -6,9 +6,6 @@ tier:
 # Glance
 
 
-# Plans
-
-
 # Turf
 
 
