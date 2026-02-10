@@ -44,6 +44,9 @@ _Check off when revealed._
 - [ ] XXX
 
 
+# Reference
+[[Names and Looks]]
+
 ## Scratchpad
 
 _Jot down notes during your game. Use it for a text-based combat tracker or anything else. Copy and paste from here into Discord for example. Here's more on [playing D&D and Discord](https://slyflourish.com/playing_dnd_over_discord.html) and a [Markdown-based battle map](https://slyflourish.com/text-based_battle_maps.html)._

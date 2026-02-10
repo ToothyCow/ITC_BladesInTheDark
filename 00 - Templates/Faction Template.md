@@ -1,12 +1,33 @@
 ---
 tags:
   - Faction
+tier:
 ---
-### Glance
-*Quick summary of goals and tactics*
+# Glance
 
-### Members
-- *Member*
 
-### Plans
-- *Associated clocks and outcomes*
+# Plans
+
+
+# Turf
+
+
+# Members
+
+
+# Assets
+
+
+# Quirks
+
+
+# Allies
+
+
+# Enemies
+
+
+# Situation
+
+
+# Plans

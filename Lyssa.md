@@ -2,7 +2,7 @@
 tags:
   - NPC
 ---
-### Glance
+### leader, brash, killer, noble family
 *Quick RP Descriptors - posture, voice/speech patterns, gestures*
 *Background*
 

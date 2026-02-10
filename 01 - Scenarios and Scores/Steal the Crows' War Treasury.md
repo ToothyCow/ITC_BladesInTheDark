@@ -11,7 +11,7 @@ tags:
 - War between [[Lampblacks]] and [[Red Sashes]]
 
 ### Location
-- *District*
+- *[[Duskvol Districts]]*
 - *Nearby Locations*
 
 ### Players
@@ -20,9 +20,10 @@ tags:
 - *Other interested parties*
 
 ### Opportunities
-- *Suggestions from client*
+- Lyssa is moving the war chest 
 
 ### Secrets
 - [[Roric]]'s ghost haunts the war chest, attached to a medallion he had hidden in an inner compartment
+- The [[Grinders]] are meeting with the Crows to discuss continuing their relationship. Lyssa plans to betray them
 
 ![[Scores Table]]
