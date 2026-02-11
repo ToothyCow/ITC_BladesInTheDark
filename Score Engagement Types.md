@@ -1,0 +1,6 @@
+- Assault: Do violence to a target. Detail: The point of attack.
+- Deception: Lure, trick, or manipulate. Detail: The method of deception.
+- Stealth: Trespass unseen. Detail: The point of infiltration.
+- Occult: Engage a supernatural power. Detail: The arcane method.
+- Social: Negotiate, bargain, or persuade. Detail: The social connection.
+- Transport: Carry cargo or people through danger. Detail: The route & means.

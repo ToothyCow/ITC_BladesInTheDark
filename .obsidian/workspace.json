@@ -13,12 +13,214 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/Session 0.md",
+                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-02-10 - Will of the Wisps Rising.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Session 0"
+              "title": "2026-02-10 - Will of the Wisps Rising"
+            }
+          },
+          {
+            "id": "32579e3f9fec29c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - GM Tips and Resources/Names and Looks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Names and Looks"
+            }
+          },
+          {
+            "id": "8b9f32e7b7cd21a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Scenarios and Scores/Steal the Crows' War Treasury.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Steal the Crows' War Treasury"
+            }
+          },
+          {
+            "id": "0a1d1e5e9772330b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grinders.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Grinders"
+            }
+          },
+          {
+            "id": "b60e1f8e7eb97026",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITC 2026 - Will Of The Wisps/Locations/Charterhall.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Charterhall"
+            }
+          },
+          {
+            "id": "06426463f2d96c34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITC 2026 - Will Of The Wisps/Locations/Crow's Foot.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Crow's Foot"
+            }
+          },
+          {
+            "id": "ec2f91dc0e75f320",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Templates/Scenarios MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Scenarios MOC"
+            }
+          },
+          {
+            "id": "6f73eb4e6ff66af2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Score Engagement Types.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Score Engagement Types"
+            }
+          },
+          {
+            "id": "1264e24793332f62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITC 2026 - Will Of The Wisps/Factions/Crows.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Crows"
             }
           }
         ]
@@ -191,13 +393,46 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
   "active": "ff27e36f2e0c48ad",
   "lastOpenFiles": [
-    "00 - Templates/Character Template.md",
-    "00 - Templates/Session Template.md"
+    "02 - GM Tips and Resources/Names and Looks.md",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-02-10 - Will of the Wisps Rising.md",
+    "01 - Scenarios and Scores/Steal the Crows' War Treasury.md",
+    "Grinders.md",
+    "ITC 2026 - Will Of The Wisps/Locations/Crow's Foot.md",
+    "00 - Templates/Scenarios MOC.md",
+    "ITC 2026 - Will Of The Wisps/Locations/Charterhall.md",
+    "Score Engagement Types.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Roslyn Kellis.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Crows.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Le Fantome - Quinn Blackwell.md",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/Session 0.md",
+    "ITC 2026 - Will Of The Wisps/Locations/The Devil's Tooth Tavern.md",
+    "ITC 2026 - Will Of The Wisps/Locations",
+    "ITC 2026 - Will Of The Wisps/Factions/Will of the Wisps.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Reconciled.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Lampblacks.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Hive.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Gondoliers.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Circle of Flame.md",
+    "ITC 2026 - Will Of The Wisps/Factions MOC.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Setarra.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Roric.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Phin Keel.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Mistress Kember.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Lyssa.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Lauria.md",
+    "02 - GM Tips and Resources/Pictures/Scores Table 2.png",
+    "02 - GM Tips and Resources/Pictures/Scores Table 1.png",
+    "02 - GM Tips and Resources/Pictures/Duskvol Map.png",
+    "02 - GM Tips and Resources/Pictures/Duskvol Map Key.png",
+    "02 - GM Tips and Resources/Pictures/Crow's Foot 2.png",
+    "02 - GM Tips and Resources/Pictures/Crow's Foot 1.png",
+    "02 - GM Tips and Resources/Pictures/Charterhall Info 2.png",
+    "02 - GM Tips and Resources/Pictures/Charterhall Info 1.png",
+    "02 - GM Tips and Resources/Pictures"
   ]
 }

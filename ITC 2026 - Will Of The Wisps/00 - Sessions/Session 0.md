@@ -4,7 +4,7 @@ Eric - [[Phin Keel]]
 
 Crew: Shadows
 - Based: Charterhall
-	- Business front run by Roslyn Kellis' family
+	- Business front run by [[Roslyn Kellis]]' family
 
 Factions:
 - Hive: +2
