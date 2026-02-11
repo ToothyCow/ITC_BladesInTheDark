@@ -1,7 +1,7 @@
 
 # Tracker
-- Hive: +2
-- Gray Cloaks: -2
+- [[Hive]]: +2
+- [[Gray Cloaks]]: -2
 - Spirit Wardens: +1
 - Unseen: -1
 

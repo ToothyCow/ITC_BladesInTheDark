@@ -2,10 +2,11 @@
 tags:
   - NPC
 ---
-# Glance
-- *Voice*
-- *Posture*
-- *Pauses*
+# Senior member of [[Gondoliers]], worldly, Whisper 
+- Gruff, low Southern accent
+	- "Been doin' this for a while, Son. Don't pay it no mind. Slag the Crows"
+- Hunched forward, hooded eyes
+- Grunts
 - *Quirk*
 *Background*
 

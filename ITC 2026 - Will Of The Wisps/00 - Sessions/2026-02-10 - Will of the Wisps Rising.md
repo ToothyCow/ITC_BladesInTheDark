@@ -70,6 +70,6 @@ Monster
 ### Session Notes
 [[Names and Looks]]
 
-Gondolier - Aldric
+Gondolier - [[Aldric]]
 Grinder negotiation party was shot to pieces
 Keel knew one of the Grinders who was killed. They don't know he was there, but if the Grinders find out that Keel was there and did nothing 
