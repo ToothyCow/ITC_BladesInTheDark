@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "2026-02-10 - Will of the Wisps Rising"
             }
+          },
+          {
+            "id": "c45e23732b155b66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-02-16 - Planning Erika side story.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-16 - Planning Erika side story"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,9 +214,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "ffb071ae26818dd9",
+  "active": "c45e23732b155b66",
   "lastOpenFiles": [
     "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-02-10 - Will of the Wisps Rising.md",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-02-16 - Planning Erika side story.md",
     "00 - Templates/NPC Template.md",
     "Aldric.md",
     "ITC 2026 - Will Of The Wisps/Factions MOC.md",
@@ -218,7 +244,6 @@
     "02 - GM Tips and Resources/Names and Looks.md",
     "ITC 2026 - Will Of The Wisps/Characters/Phin Keel.md",
     "ITC 2026 - Will Of The Wisps/Characters/Le Fantome - Quinn Blackwell.md",
-    "ITC 2026 - Will Of The Wisps/Factions/Hive.md",
     "02 - GM Tips and Resources/Pictures/Duskvol Map.png",
     "02 - GM Tips and Resources/Pictures/Duskvol Map Key.png",
     "02 - GM Tips and Resources/Pictures/PXL_20260209_022754401.MP.jpg",

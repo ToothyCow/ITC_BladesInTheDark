@@ -44,11 +44,13 @@ OVERALL
 - What is the Gray Cloak's plan? Why were they ousted from the force?
 - What ritual is needed to stabilize a ghost?
 
-# Secret and Clues
-
-_Check off when revealed._
-
-- [ ] XXX
+# Next Steps
+* Roric's Ghost is in the war chest
+* Bazso Baz asks for help?
+* Next steps for the Hive?
+* Grinders in a bad spot. What's next? How can they fight back?
+* What are the Gray Cloaks up to? How do they plan to get their revenge? Moving on Six Towers next, then what?
+    * Who else is in Six Towers?
 
 
 ## Scratchpad
