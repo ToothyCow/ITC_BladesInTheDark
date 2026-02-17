@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-02-10 - Will of the Wisps Rising.md",
+                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-02-16 - Planning Erika side story.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-10 - Will of the Wisps Rising"
+              "title": "2026-02-16 - Planning Erika side story"
             }
           },
           {
-            "id": "32579e3f9fec29c4",
+            "id": "d46c15a285becd0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lucella.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lucella"
+            }
+          },
+          {
+            "id": "a87912c8464fdd17",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,132 +80,12 @@
             }
           },
           {
-            "id": "8b9f32e7b7cd21a6",
+            "id": "e39cbcca95e6e00a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Scenarios and Scores/Steal the Crows' War Treasury.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Steal the Crows' War Treasury"
-            }
-          },
-          {
-            "id": "0a1d1e5e9772330b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grinders.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Grinders"
-            }
-          },
-          {
-            "id": "b60e1f8e7eb97026",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITC 2026 - Will Of The Wisps/Locations/Charterhall.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Charterhall"
-            }
-          },
-          {
-            "id": "06426463f2d96c34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITC 2026 - Will Of The Wisps/Locations/Crow's Foot.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Crow's Foot"
-            }
-          },
-          {
-            "id": "ec2f91dc0e75f320",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Templates/Scenarios MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Scenarios MOC"
-            }
-          },
-          {
-            "id": "6f73eb4e6ff66af2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Score Engagement Types.md",
+                "file": "02 - GM Tips and Resources/Score Engagement Types.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -200,12 +104,12 @@
             }
           },
           {
-            "id": "1264e24793332f62",
+            "id": "8e94f93750fab444",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/Factions/Crows.md",
+                "file": "ITC 2026 - Will Of The Wisps/Factions/Gray Cloaks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,7 +124,79 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Crows"
+              "title": "Gray Cloaks"
+            }
+          },
+          {
+            "id": "a7c3e980bd73e4aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artie (Arthur) Donaldson.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Artie (Arthur) Donaldson"
+            }
+          },
+          {
+            "id": "b710e12a6fed9006",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITC 2026 - Will Of The Wisps/Characters/Le Fantome - Quinn Blackwell.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Le Fantome - Quinn Blackwell"
+            }
+          },
+          {
+            "id": "c0d7593190ae51ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Darmot.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Darmot"
             }
           }
         ]
@@ -387,6 +363,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -398,8 +375,19 @@
   },
   "active": "ff27e36f2e0c48ad",
   "lastOpenFiles": [
+    "Lucella.md",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-02-16 - Planning Erika side story.md",
     "02 - GM Tips and Resources/Names and Looks.md",
+    "02 - GM Tips and Resources/Score Engagement Types.md",
+    "[Names and Looks.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Gray Cloaks.md",
+    "Darmot.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Le Fantome - Quinn Blackwell.md",
+    "Artie (Arthur) Donaldson.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-02-10 - Will of the Wisps Rising.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Red Sashes.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Grinders.md",
+    "Aldric.md",
     "01 - Scenarios and Scores/Steal the Crows' War Treasury.md",
     "Grinders.md",
     "ITC 2026 - Will Of The Wisps/Locations/Crow's Foot.md",
@@ -408,23 +396,12 @@
     "Score Engagement Types.md",
     "ITC 2026 - Will Of The Wisps/Characters/Roslyn Kellis.md",
     "ITC 2026 - Will Of The Wisps/Factions/Crows.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Le Fantome - Quinn Blackwell.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Session 0.md",
     "ITC 2026 - Will Of The Wisps/Locations/The Devil's Tooth Tavern.md",
     "ITC 2026 - Will Of The Wisps/Locations",
     "ITC 2026 - Will Of The Wisps/Factions/Will of the Wisps.md",
     "ITC 2026 - Will Of The Wisps/Factions/Reconciled.md",
     "ITC 2026 - Will Of The Wisps/Factions/Lampblacks.md",
-    "ITC 2026 - Will Of The Wisps/Factions/Hive.md",
-    "ITC 2026 - Will Of The Wisps/Factions/Gondoliers.md",
-    "ITC 2026 - Will Of The Wisps/Factions/Circle of Flame.md",
-    "ITC 2026 - Will Of The Wisps/Factions MOC.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Setarra.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Roric.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Phin Keel.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Mistress Kember.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Lyssa.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Lauria.md",
     "02 - GM Tips and Resources/Pictures/Scores Table 2.png",
     "02 - GM Tips and Resources/Pictures/Scores Table 1.png",
     "02 - GM Tips and Resources/Pictures/Duskvol Map.png",
