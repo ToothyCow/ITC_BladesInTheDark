@@ -18,7 +18,7 @@
 - Background - [[Artie (Arthur) Donaldson]] and [[Darmot]] were running small smuggling op in the Docks, [[Le Fantome - Quinn Blackwell]] found out, tried to steal, got caught, got beat up, looking for revenge
 - Stealing a bottle of Skov scotch from Artie's
 - Ghost - Member of previous crew, [[Lucella]]
-- Bottle of Scotch - "Sorry about Siercia, wasn't my call. Working on a solution, take this as a promise of good faith. XOXO, [[Sally]]"
+- Bottle of Scotch - "Sorry about [[Siercia]], wasn't my call. Working on a solution, take this as a promise of good faith. XOXO, [[Sally]]"
 - Dead Skov girl that launched the whole Gray Cloak thing - [[Betty]]
 
 [[Names and Looks]]
