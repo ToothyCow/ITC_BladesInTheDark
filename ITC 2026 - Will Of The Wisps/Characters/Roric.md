@@ -3,7 +3,7 @@ tags:
   - NPC
 ---
 ### Gang boss, deal maker, high roller, ghost
-- Stoic, deep voice (Zavala)
+- Stoic, deep British/Australian (Jango Fett)
 - Elbow on the table, confidently leaning in
 - Growly "Hmm..."
 - Ghost - tends to trail off, repeat thoughts as echoes, fall back to replaying bits of his life rather than saying something new. Has to strain to say something he hasn't heard before

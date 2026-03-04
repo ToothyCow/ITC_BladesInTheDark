@@ -3,7 +3,11 @@ tags:
   - NPC
 ---
 ### leader, brash, killer, noble family
-*Quick RP Descriptors - posture, voice/speech patterns, gestures*
+- Harsh, military clip
+	- You are going to say, 'Thank you, Mistress Lyssa', take your sorry lives, and leave. Go die in a ditch somewhere else, and be grateful I don't slit your throats right now.
+- Tense, controlled, ready for action
+- *Quiet stare*
+- 
 *Background*
 
 Opportunities:

@@ -5,7 +5,6 @@ Type: Session
 tags: 
 Current: false
 ---
-
 # To Do
 
 - [ ] [[Characters MOC]]

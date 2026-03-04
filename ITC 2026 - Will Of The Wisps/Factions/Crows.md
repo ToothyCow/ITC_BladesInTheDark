@@ -13,6 +13,7 @@ Claims all of Crow’s Foot as their turf. Everyone in the district pays up the 
 # Members
 - [[Lyssa]] (leader, brash, killer, noble family)
 - Bell (second-in-command, loyal)
+- [[Shep]] (Discount Whisper - creepy, oily, prickly)
 
 # Assets
 A veteran gang of thugs and killers. A number of small boats. A fortified HQ. 
