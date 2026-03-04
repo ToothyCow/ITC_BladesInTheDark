@@ -8,6 +8,7 @@ tags:
 - Growly "Hmm..."
 - Ghost - tends to trail off, repeat thoughts as echoes, fall back to replaying bits of his life rather than saying something new. Has to strain to say something he hasn't heard before
 *Background*
+- [[Crows]]
 
 Opportunities:
 - Hates [[Lyssa]], wants revenge

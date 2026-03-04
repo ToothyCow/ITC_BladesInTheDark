@@ -11,9 +11,13 @@ tags:
 	- Scurlock is looking for the lost son of Queen Alayne
 - Skovlander
 	- Son of Queen Alayne, not heir - 4th-ish son
-- ~~Vice: Weird~~
-	- ~~I've experienced luxury. Now I just want answers~~
 - Vice: Stupor
 	- Painkillers to dull the pain
+- Keys:
+	- Guarded Compassion → Emotional Withdrawal
+	- Burdened Loyalty → Martyr Complex
+	- Morbid Curiosity → Obsession
+	- Cold Clarity?
 
 [[Erik Notes]]
+

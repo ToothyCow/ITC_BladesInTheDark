@@ -15,3 +15,8 @@ tags:
 - Vice: Luxury
 	- Needs to feel like he's finally arrived, escaped poverty
 	- Needs to be seen by others, to be recognized and acknowledged
+- Keys:
+	1. Charismatic (▼ Quiet ▲ Manipulative)
+	2. Confident (▼ Insecure ▲ Arrogant)
+	3. Enthusiastic (▼ Apathetic ▲ Chaotic)
+	4. Loyal (▼ Selfish ▲ Self-Sacrificing)

@@ -6,7 +6,7 @@ tags:
 *Quick summary of goals and tactics*
 
 ### Members
-- [[Le Fantome - Quinn Blackwell]]
+- [[Le Fantome - Quince Blackwell]]
 - [[Drav Kardera]]
 - [[Phin Keel]]
 

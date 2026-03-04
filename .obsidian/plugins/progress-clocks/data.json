@@ -7,8 +7,8 @@
           {
             "type": "clock",
             "name": "Test",
-            "segments": 8,
-            "filled": 3
+            "segments": 4,
+            "filled": 1
           }
         ]
       }

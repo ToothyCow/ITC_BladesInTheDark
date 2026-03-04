@@ -12,7 +12,7 @@ Current: false
 - [ ] [[Scenarios MOC]]
 
 # Party View
-- Erika - [[Le Fantome - Quinn Blackwell]]
+- Erika - [[Le Fantome - Quince Blackwell]]
 - Criv - [[Drav Kardera]]
 - Eric - [[Phin Keel]]
 - Crew - [[Will of the Wisps]]

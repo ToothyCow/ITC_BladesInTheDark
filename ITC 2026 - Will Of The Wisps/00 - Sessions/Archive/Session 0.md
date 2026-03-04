@@ -1,4 +1,4 @@
-Erika: [[Le Fantome - Quinn Blackwell]]
+Erika: [[Le Fantome - Quince Blackwell]]
 Criv: [[Drav Kardera]]
 Eric - [[Phin Keel]]
 
