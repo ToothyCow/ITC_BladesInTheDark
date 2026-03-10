@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a192eff854cf2ab3",
+        "id": "eb80bfc3f0b9381d",
         "type": "tabs",
         "children": [
           {
-            "id": "ffb071ae26818dd9",
+            "id": "255baf6097b253a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-02-10 - Will of the Wisps Rising.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-02-10 - Will of the Wisps Rising"
-            }
-          },
-          {
-            "id": "c45e23732b155b66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Threats and Opportunities.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Threats and Opportunities"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,12 +175,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "c45e23732b155b66",
+  "active": "255baf6097b253a1",
   "lastOpenFiles": [
     "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-03-03 - Session.md",
+    "Threats and Opportunities.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Le Fantome - Quince Blackwell.md",
     "ITC 2026 - Will Of The Wisps/Characters/Roric.md",
     "ITC 2026 - Will Of The Wisps/Characters/Lyssa.md",
-    "Threats and Opportunities.md",
     "ITC 2026 - Will Of The Wisps/Characters/Lauria.md",
     "Shep.md",
     "ITC 2026 - Will Of The Wisps/Factions/Reconciled.md",
@@ -242,7 +204,6 @@
     "ITC 2026 - Will Of The Wisps/Factions/Lampblacks.md",
     "ITC 2026 - Will Of The Wisps/Factions/Gray Cloaks.md",
     "ITC 2026 - Will Of The Wisps/Factions/Grinders.md",
-    "00 - Templates/Faction Template.md",
     "02 - GM Tips and Resources/Pictures/Crow's Foot 1.png",
     "02 - GM Tips and Resources/Pictures/Crow's Foot 2.png",
     "02 - GM Tips and Resources/Pictures/Duskvol Map.png",
