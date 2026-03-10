@@ -6,8 +6,8 @@
 - Unseen: -1
 
 # Sessions
-## 2026-02-10
-- [[Hive]] - Hiring the Wisps
+## 2026-03-10
+- [[Hive]] - Ward boss, owe 1 coin for rent
 - [[Crows]] - The Mark
 - [[Lampblacks]] and [[Red Sashes]] - At war in [[Crow's Foot]]
-- [[Grinders]] - Had truce with [[Crows]], likely to be going sour now
+- [[Grinders]] - looking for revenge on Crows

@@ -7,8 +7,8 @@
 - Hive could send them far from the Docks to let Gray Cloaks cool off
 	- Steal valuable artifact from low-level Leviathan Hunter? Fog Hounds?
 	- Spy on [[Fog Hounds]], find benefactor?
-- Roric will ask them to go get the spirit crystal to contact [[Lauria]] - steal from his old apartment
-	- [[Crows]] sending [[Shep]] with some thugs to find Roric's stash of Whisper stuff
+- Roric will ask them to go get the spirit crystal to contact [[Lauria (Nyssa)]] - steal from his old apartment
+	- [[Crows]] sending [[Flint]] with some thugs to find Roric's stash of Whisper stuff
 
 # Long Term
 - Cool factions to highlight - low tier

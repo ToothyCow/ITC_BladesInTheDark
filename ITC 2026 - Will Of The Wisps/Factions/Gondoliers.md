@@ -13,7 +13,7 @@ The canals of Doskvol. Even the Bluecoats’ canal patrol pays respect to them.
 # Members
 - Eisele (leader, serene, knowledgeable, fearless).
 - Griggs (chief Whisper, strange, ruthless, haunted)
-- [[Lauria]] (low-rank adept, fast-talker, skittish, spy for the [[Reconciled]])
+- [[Lauria (Nyssa)]] (low-rank adept, fast-talker, skittish, spy for the [[Reconciled]])
 
 # Assets
 Fleet of gondolas and other water-craft. Map of known spirit wells and arcane sites across the city. A dedicated cohort of Adepts.

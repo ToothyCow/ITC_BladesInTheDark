@@ -12,7 +12,7 @@ tags:
 
 Opportunities:
 - Hates [[Lyssa]], wants revenge
-- Close to a way to stabilize his spirit, but his contact with the [[Gondoliers]] - [[Lauria]] - held out some crucial parts of the process
+- Close to a way to stabilize his spirit, but his contact with the [[Gondoliers]] - [[Lauria (Nyssa)]] - held out some crucial parts of the process
 
 Pitfalls:
 - Appealing to justice or his "better nature". That's not how the world works
