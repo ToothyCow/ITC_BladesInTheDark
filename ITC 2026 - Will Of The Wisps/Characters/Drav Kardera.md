@@ -17,6 +17,7 @@ tags:
 	- Needs to be seen by others, to be recognized and acknowledged
 - Keys:
 	1. Charismatic (▼ Quiet ▲ Manipulative)
+		- 1
 	2. Confident (▼ Insecure ▲ Arrogant)
 	3. Enthusiastic (▼ Apathetic ▲ Chaotic)
 	4. Loyal (▼ Selfish ▲ Self-Sacrificing)

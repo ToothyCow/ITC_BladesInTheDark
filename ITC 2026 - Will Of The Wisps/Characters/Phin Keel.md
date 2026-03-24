@@ -14,10 +14,10 @@ tags:
 - Vice: Stupor
 	- Painkillers to dull the pain
 - Keys:
-	- Guarded Compassion → Emotional Withdrawal
-	- Burdened Loyalty → Martyr Complex
-	- Morbid Curiosity → Obsession
-	- Cold Clarity?
+	1. Compassionate (indifferent, hyper-empathetic)
+	2. Loyal (selfish, self-sacrificing)
+	3. Curious (disinterested, obsessed)
+	4. Focused (distracted, fixated)
 
 [[Erik Notes]]
 

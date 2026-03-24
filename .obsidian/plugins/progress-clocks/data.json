@@ -2,7 +2,7 @@
   "state": {
     "sections": [
       {
-        "name": "Main",
+        "name": "Secret Clocks",
         "children": [
           {
             "type": "clock",

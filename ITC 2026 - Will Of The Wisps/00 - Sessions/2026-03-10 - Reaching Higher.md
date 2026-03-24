@@ -38,6 +38,7 @@ Current: false
     * Includes Quince’s ghost friend [[Lucella]]
     * Will Flint capture her? Get secrets?
 * **Is anyone else invested in Roric’s apartment?**
+	* Grinders - Looking 
 
 # Secret and Clues
 
@@ -66,3 +67,13 @@ Monster
 ```
 
 ### Session Notes
+- Skov royal colors = Blue and White
+- [[Score Engagement Types]]
+- Door broken - Crows will know people are here
+- Drav took a dip in the canal, was inflicted with visions of the deep
+- Party saw Roric's desperation to live beyond death, that he went to the Reconciled
+- Reconciled:
+	- Quince encountered a possessed noble, member of the Reconciled. Cursed her to ensure her silence. He's tapped her, marked her. Will come find her.
+	- Who is this ghost masquerading as? What is his mark?
+	- Not Lord Scurlock, but Eric thinks it is. Keel doesn't know either way yet
+- Drav owes the Dimmer Sisters for healing - what will they ask for?

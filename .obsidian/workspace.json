@@ -13,7 +13,79 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-03-03 - Session.md",
+                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-03-10 - Reaching Higher.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-10 - Reaching Higher"
+            }
+          },
+          {
+            "id": "a2b843709f8057ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - GM Tips and Resources/Score Engagement Types.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Score Engagement Types"
+            }
+          },
+          {
+            "id": "d86ee5513ad8013a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITC 2026 - Will Of The Wisps/Characters/Le Fantome - Quince Blackwell.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Le Fantome - Quince Blackwell"
+            }
+          },
+          {
+            "id": "948cc0786ffcb809",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-03-03 - Session.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -32,12 +104,12 @@
             }
           },
           {
-            "id": "6eda13d35c689747",
+            "id": "14f0a1aff9130f55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/Factions MOC.md",
+                "file": "ITC 2026 - Will Of The Wisps/Characters/Drav Kardera.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Factions MOC"
+              "title": "Drav Kardera"
             }
           },
           {
-            "id": "8dbe47f874c52bd3",
+            "id": "7e42bf27eeafdd80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/Factions/Gray Cloaks.md",
+                "file": "ITC 2026 - Will Of The Wisps/Characters/Phin Keel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,119 +148,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gray Cloaks"
-            }
-          },
-          {
-            "id": "464ddd23eb54c478",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
-          },
-          {
-            "id": "9c9b6992c826b948",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITC 2026 - Will Of The Wisps/Characters/Roric.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Roric"
-            }
-          },
-          {
-            "id": "5aa76e3e7240b5b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITC 2026 - Will Of The Wisps/Factions/Crows.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Crows"
-            }
-          },
-          {
-            "id": "b6ffc0a355fb82a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - GM Tips and Resources/Names and Looks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Names and Looks"
-            }
-          },
-          {
-            "id": "0bef61bb33821dbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Threats and Opportunities.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Threats and Opportunities"
+              "title": "Phin Keel"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -347,7 +310,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -361,8 +324,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "464ddd23eb54c478",
+  "active": "d46c15a285becd0f",
   "lastOpenFiles": [
+    "Planning 3-24.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Drav Kardera.md",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-03-10 - Reaching Higher.md",
+    "02 - GM Tips and Resources/Score Engagement Types.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Phin Keel.md",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-03-03 - Session.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Le Fantome - Quince Blackwell.md",
+    "Lucella.md",
+    "Notes Import.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Lauria (Nyssa).md",
+    "Flint.md",
     "ITC 2026 - Will Of The Wisps/Factions MOC.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-03-03 - Session.md",
     "ITC 2026 - Will Of The Wisps/Characters/Roric.md",
@@ -370,10 +344,6 @@
     "Threats and Opportunities.md",
     "ITC 2026 - Will Of The Wisps/Factions/Crows.md",
     "02 - GM Tips and Resources/Names and Looks.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Le Fantome - Quince Blackwell.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Phin Keel.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Drav Kardera.md",
-    "Lucella.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-02-16 - Planning Erika side story.md",
     "Shep.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/Session 0.md",
@@ -381,15 +351,8 @@
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-02-10 - Will of the Wisps Rising.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive",
     "A Game of Cloaks and Hounds.md",
-    "02 - GM Tips and Resources/Score Engagement Types.md",
     "[Names and Looks.md",
     "ITC 2026 - Will Of The Wisps/Factions/Gray Cloaks.md",
-    "Darmot.md",
-    "Artie (Arthur) Donaldson.md",
-    "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-02-10 - Will of the Wisps Rising.md",
-    "ITC 2026 - Will Of The Wisps/Factions/Red Sashes.md",
-    "ITC 2026 - Will Of The Wisps/Factions/Grinders.md",
-    "Aldric.md",
     "ITC 2026 - Will Of The Wisps/Locations",
     "02 - GM Tips and Resources/Pictures/Scores Table 2.png",
     "02 - GM Tips and Resources/Pictures/Scores Table 1.png",

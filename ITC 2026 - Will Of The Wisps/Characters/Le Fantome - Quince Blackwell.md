@@ -10,3 +10,7 @@ tags:
 	- Knows she's paying her way out of trouble
 - Vice: Pleasure
 	- Lives for the thrill of theft, taking the rare, the unobtainable
+- Keys:
+	- Suspicious
+	- Ambitious
+	- Bitter
