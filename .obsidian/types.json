@@ -3,6 +3,8 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "tier": "number"
+    "tier": "number",
+    "Creation Date": "datetime",
+    "Last Edited": "datetime"
   }
 }
