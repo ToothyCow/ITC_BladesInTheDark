@@ -21,9 +21,6 @@ Current: false
 # Recap
 - [[2026-03-10 - Reaching Higher]]
 
-# Strong Start
-- [[War in Crow's Foot]]
-- [[Steal the Crows' War Treasury]]
 
 # People
 

@@ -27,9 +27,6 @@ OVERALL
 LAST TIME:
 - XXX
 
-# Strong Start
-- [[War in Crow's Foot]]
-- [[Steal the Crows' War Treasury]]
 
 # People
 
