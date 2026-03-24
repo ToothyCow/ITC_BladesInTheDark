@@ -8,4 +8,11 @@ Other jobs: find a noble that they can con into long-term donations to a hospita
  
  Dig more into drabs character. Where does this altruism come from? Can it be exploited? 
  Figure out phantoms vampire. It's probably Lord strangford. How does he feed? 
-What is satara's dark desire? Drowning victims, Leviathan blood, wrath and ruined. Violence done using water and ice, or rituals performed with Leviathan blood.
+What is satara's dark desire? Drowning victims, Leviathan blood, wrath and ruined. Violence done using water and ice, or rituals performed with Leviathan blood. 
+ 
+The job: 
+cart traveling down a back alley, by understated but strong looking goats. 
+ Cramped passageways, crowded back alleys
+ Merchants collapsing their stalls, pulling back to avoid getting trampled. 
+Hull on the cart, revolver and blades. 
+ 
