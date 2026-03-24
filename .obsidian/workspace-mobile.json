@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "2026-03-10 - Reaching Higher"
             }
+          },
+          {
+            "id": "cfbf1c47aff775a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planning 3-24.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Planning 3-24"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,10 +238,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "22746845a68362c6",
+  "active": "cfbf1c47aff775a9",
   "lastOpenFiles": [
-    "Lucella.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-03-10 - Reaching Higher.md",
+    "Planning 3-24.md",
+    "Lucella.md",
     "Notes Import.md",
     "Threats and Opportunities.md",
     "00 - Templates/Scenarios MOC.md",
@@ -242,7 +267,6 @@
     "[Names and Looks.md",
     "00 - Templates/NPC Template.md",
     "ITC 2026 - Will Of The Wisps/Factions/Red Sashes.md",
-    "ITC 2026 - Will Of The Wisps/Factions/Lampblacks.md",
     "02 - GM Tips and Resources/Pictures/Crow's Foot 1.png",
     "02 - GM Tips and Resources/Pictures/Crow's Foot 2.png",
     "02 - GM Tips and Resources/Pictures/Duskvol Map.png",
