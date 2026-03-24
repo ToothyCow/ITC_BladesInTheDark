@@ -30,10 +30,7 @@ Current: false
 
 # Scenes
 ### Opening
-- Highlight the dimmer sisters of the Moon, zoom into an ancient house, well-kept but clearly not highly trafficked.
-- Dimmer House: ![[Dimmer House#Description]]
-- [[Quellyn]] is discussing healing, payment
-- Catch a glimpse of [[Sister Roslynn]] - supernaturally serene presence, mourning veil masking her features, lavender sash. Member of the [[Dimmer Sisters]]
+- Dimmer House
 
 ### Score
 - Option A: Sparkwright Cart
