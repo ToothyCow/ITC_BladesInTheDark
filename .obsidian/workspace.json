@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "47d87f9ab7a5c1c9",
+    "id": "568c81e23e2ff6fc",
     "type": "split",
     "children": [
       {
-        "id": "1b8241218f538bdc",
+        "id": "9fdbdf059f9a1f79",
         "type": "tabs",
         "children": [
           {
-            "id": "d46c15a285becd0f",
+            "id": "8533240a57c40314",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-03-10 - Reaching Higher.md",
+                "file": "ITC 2026 - Will Of The Wisps/Planning/Planning 3-24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,127 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-10 - Reaching Higher"
-            }
-          },
-          {
-            "id": "a2b843709f8057ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - GM Tips and Resources/Score Engagement Types.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Score Engagement Types"
-            }
-          },
-          {
-            "id": "d86ee5513ad8013a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITC 2026 - Will Of The Wisps/Characters/Le Fantome - Quince Blackwell.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Le Fantome - Quince Blackwell"
-            }
-          },
-          {
-            "id": "948cc0786ffcb809",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-03-03 - Session.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-03 - Session"
-            }
-          },
-          {
-            "id": "14f0a1aff9130f55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITC 2026 - Will Of The Wisps/Characters/Drav Kardera.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Drav Kardera"
-            }
-          },
-          {
-            "id": "7e42bf27eeafdd80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITC 2026 - Will Of The Wisps/Characters/Phin Keel.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Phin Keel"
+              "title": "Planning 3-24"
             }
           }
         ]
@@ -157,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "007fa42a0881c800",
+    "id": "d2796754331b7d32",
     "type": "split",
     "children": [
       {
-        "id": "3a076563ac9d5540",
+        "id": "5b67019c1715ce52",
         "type": "tabs",
         "children": [
           {
-            "id": "809f35ed392fbf14",
+            "id": "663692c1d53ce931",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -178,7 +58,7 @@
             }
           },
           {
-            "id": "7e75f2af0cd5fa19",
+            "id": "ad265b9116659c12",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -195,7 +75,7 @@
             }
           },
           {
-            "id": "b3fa0ff4d550b1bd",
+            "id": "cae03a468a6ca7b3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -208,23 +88,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 300
   },
   "right": {
-    "id": "f662ce8a57a4f30e",
+    "id": "7248e2ef19414b4c",
     "type": "split",
     "children": [
       {
-        "id": "f1a786f2d88a249c",
+        "id": "557661310f1c23f3",
         "type": "tabs",
         "children": [
           {
-            "id": "bdfddb0affc4d124",
+            "id": "786663d12f4c93c6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/Session 0.md",
+                "file": "ITC 2026 - Will Of The Wisps/Planning/Planning 3-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,25 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 0"
+              "title": "Backlinks for Planning 3-24"
             }
           },
           {
-            "id": "9d78b501694b1d9a",
+            "id": "a004269529894825",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/Session 0.md",
+                "file": "ITC 2026 - Will Of The Wisps/Planning/Planning 3-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 0"
+              "title": "Outgoing links from Planning 3-24"
             }
           },
           {
-            "id": "68e77136ea8a2a2d",
+            "id": "c8ede0c2966335f9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -267,7 +147,7 @@
             }
           },
           {
-            "id": "927784f6d0064e0a",
+            "id": "0beb3f3897f490d6",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -281,87 +161,84 @@
             }
           },
           {
-            "id": "17325bd6a66f7207",
+            "id": "81b37b7125dac053",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/Session 0.md",
+                "file": "ITC 2026 - Will Of The Wisps/Planning/Planning 3-24.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 0"
-            }
-          },
-          {
-            "id": "326b44cc9fe25d9b",
-            "type": "leaf",
-            "state": {
-              "type": "PROGRESS_CLOCKS_VIEW",
-              "state": {},
-              "icon": "pie-chart",
-              "title": "Progress Clocks"
+              "title": "Outline of Planning 3-24"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d46c15a285becd0f",
+  "active": "663692c1d53ce931",
   "lastOpenFiles": [
-    "Planning 3-24.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Drav Kardera.md",
-    "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-03-10 - Reaching Higher.md",
-    "02 - GM Tips and Resources/Score Engagement Types.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Phin Keel.md",
-    "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-03-03 - Session.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Le Fantome - Quince Blackwell.md",
-    "Lucella.md",
+    "ITC 2026 - Will Of The Wisps/Planning",
+    "ITC 2026 - Will Of The Wisps/Planning/Threats and Opportunities.md",
+    "ITC 2026 - Will Of The Wisps/Planning/Planning 3-24.md",
     "Notes Import.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Lauria (Nyssa).md",
-    "Flint.md",
-    "ITC 2026 - Will Of The Wisps/Factions MOC.md",
-    "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-03-03 - Session.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Roric.md",
-    "00 - Templates/Faction Template.md",
-    "Threats and Opportunities.md",
-    "ITC 2026 - Will Of The Wisps/Factions/Crows.md",
-    "02 - GM Tips and Resources/Names and Looks.md",
-    "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-02-16 - Planning Erika side story.md",
-    "Shep.md",
+    "Lucella.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/Session 0.md",
-    "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-02-16 - Planning Erika side story.md",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-03-03 - Session.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-02-10 - Will of the Wisps Rising.md",
-    "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive",
-    "A Game of Cloaks and Hounds.md",
-    "[Names and Looks.md",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-02-16 - Planning Erika side story.md",
+    "ITC 2026 - Will Of The Wisps/Locations/The Devil's Tooth Tavern.md",
+    "ITC 2026 - Will Of The Wisps/Locations/Crow's Foot.md",
+    "ITC 2026 - Will Of The Wisps/Locations/Charterhall.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Will of the Wisps.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Red Sashes.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Reconciled.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Hive.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Lampblacks.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Grinders.md",
     "ITC 2026 - Will Of The Wisps/Factions/Gray Cloaks.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Gondoliers.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Crows.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Circle of Flame.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Setarra.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Roslyn Kellis.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Phin Keel.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Roric.md",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive",
     "ITC 2026 - Will Of The Wisps/Locations",
+    "ITC 2026 - Will Of The Wisps/Factions",
+    "ITC 2026 - Will Of The Wisps/Characters",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions",
+    "ITC 2026 - Will Of The Wisps",
     "02 - GM Tips and Resources/Pictures/Scores Table 2.png",
     "02 - GM Tips and Resources/Pictures/Scores Table 1.png",
+    "02 - GM Tips and Resources/Pictures/Crow's Foot 2.png",
     "02 - GM Tips and Resources/Pictures/Duskvol Map.png",
     "02 - GM Tips and Resources/Pictures/Duskvol Map Key.png",
-    "02 - GM Tips and Resources/Pictures/Crow's Foot 2.png",
     "02 - GM Tips and Resources/Pictures/Crow's Foot 1.png",
     "02 - GM Tips and Resources/Pictures/Charterhall Info 2.png",
     "02 - GM Tips and Resources/Pictures/Charterhall Info 1.png",
-    "02 - GM Tips and Resources/Pictures"
+    "02 - GM Tips and Resources/Pictures",
+    "02 - GM Tips and Resources",
+    "01 - Scenarios and Scores",
+    "00 - Templates"
   ]
 }
