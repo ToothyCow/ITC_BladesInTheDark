@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/Planning/Planning 3-24.md",
+                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-03-24 - The Dimmer Sisters.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Planning 3-24"
+              "title": "2026-03-24 - The Dimmer Sisters"
+            }
+          },
+          {
+            "id": "ad316d7eae50ee1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sister Quellyn.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sister Quellyn"
+            }
+          },
+          {
+            "id": "49fe7361bcfc2d19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-03-24 - The Dimmer Sisters.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-24 - The Dimmer Sisters"
+            }
+          },
+          {
+            "id": "da6ac184d233f6d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dimmer House.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dimmer House"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/Planning/Planning 3-24.md",
+                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-03-24 - The Dimmer Sisters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Planning 3-24"
+              "title": "Backlinks for 2026-03-24 - The Dimmer Sisters"
             }
           },
           {
@@ -123,12 +196,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/Planning/Planning 3-24.md",
+                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-03-24 - The Dimmer Sisters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Planning 3-24"
+              "title": "Outgoing links from 2026-03-24 - The Dimmer Sisters"
             }
           },
           {
@@ -166,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/Planning/Planning 3-24.md",
+                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-03-24 - The Dimmer Sisters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Planning 3-24"
+              "title": "Outline of 2026-03-24 - The Dimmer Sisters"
             }
           }
         ]
@@ -194,13 +267,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "663692c1d53ce931",
+  "active": "49fe7361bcfc2d19",
   "lastOpenFiles": [
+    "ITC 2026 - Will Of The Wisps/Planning/Planning 3-24 - Dimmer Sisters.md",
+    "Dimmer House.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Dimmer Sisters.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Gray Cloaks.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Hive.md",
+    "ITC 2026 - Will Of The Wisps/Factions/Circle of Flame.md",
+    "Sister Quellyn.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Lauria (Nyssa).md",
+    "ITC 2026 - Will Of The Wisps/Characters/Erik Notes.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Drav Kardera.md",
+    "Lucella.md",
+    "Darmot.md",
+    "Artie (Arthur) Donaldson.md",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-03-24 - The Dimmer Sisters.md",
+    "00 - Templates/Session Template.md",
+    "ITC 2026 - Will Of The Wisps/Planning/Big ideas.md",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-03-10 - Reaching Higher.md",
     "ITC 2026 - Will Of The Wisps/Planning",
     "ITC 2026 - Will Of The Wisps/Planning/Threats and Opportunities.md",
-    "ITC 2026 - Will Of The Wisps/Planning/Planning 3-24.md",
     "Notes Import.md",
-    "Lucella.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/Session 0.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-03-03 - Session.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-02-10 - Will of the Wisps Rising.md",
@@ -208,20 +296,6 @@
     "ITC 2026 - Will Of The Wisps/Locations/The Devil's Tooth Tavern.md",
     "ITC 2026 - Will Of The Wisps/Locations/Crow's Foot.md",
     "ITC 2026 - Will Of The Wisps/Locations/Charterhall.md",
-    "ITC 2026 - Will Of The Wisps/Factions/Will of the Wisps.md",
-    "ITC 2026 - Will Of The Wisps/Factions/Red Sashes.md",
-    "ITC 2026 - Will Of The Wisps/Factions/Reconciled.md",
-    "ITC 2026 - Will Of The Wisps/Factions/Hive.md",
-    "ITC 2026 - Will Of The Wisps/Factions/Lampblacks.md",
-    "ITC 2026 - Will Of The Wisps/Factions/Grinders.md",
-    "ITC 2026 - Will Of The Wisps/Factions/Gray Cloaks.md",
-    "ITC 2026 - Will Of The Wisps/Factions/Gondoliers.md",
-    "ITC 2026 - Will Of The Wisps/Factions/Crows.md",
-    "ITC 2026 - Will Of The Wisps/Factions/Circle of Flame.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Setarra.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Roslyn Kellis.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Phin Keel.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Roric.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive",
     "ITC 2026 - Will Of The Wisps/Locations",
     "ITC 2026 - Will Of The Wisps/Factions",
@@ -238,7 +312,6 @@
     "02 - GM Tips and Resources/Pictures/Charterhall Info 1.png",
     "02 - GM Tips and Resources/Pictures",
     "02 - GM Tips and Resources",
-    "01 - Scenarios and Scores",
-    "00 - Templates"
+    "01 - Scenarios and Scores"
   ]
 }

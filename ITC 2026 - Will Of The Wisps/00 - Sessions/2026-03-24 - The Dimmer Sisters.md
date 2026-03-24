@@ -30,7 +30,9 @@ Current: false
 
 # Scenes
 ### Opening
-- Dimmer House
+- Highlight the dimmer sisters of the Moon, zoom into an ancient house, well-kept but clearly not highly trafficked.
+- Dimmer House: ![[Dimmer House#Description]]
+- [[Sister Quellyn]] - supernaturally serene presence, mourning veil masking her features, lavender sash
 
 ### Score
 - Option A: Sparkwright Cart
