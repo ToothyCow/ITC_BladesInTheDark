@@ -11,8 +11,9 @@ House-bound recluses with an occult reputation.
 
 # Members
 There is no single leader of the Sisters; their true names are not known.
-Roslyn (servant, patient, loyal, arcane) deals with contacts outside the house.
-Irelen (spark-craft tinkerer, loyal, enigmatic, obsessive)
+- [[Quellyn]] (servant, patient, loyal, arcane) deals with contacts outside the house.
+- Irelen (spark-craft tinkerer, loyal, enigmatic, obsessive)
+- [[Sister Roslynn]] - Acolyte, matron
 
 # Assets
 A private electroplasmic generator, lightning barriers, and spirit containment vessels. Many spirits bound to service.
