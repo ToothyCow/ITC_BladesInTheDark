@@ -3,7 +3,7 @@ tags:
   - NPC
 ---
 # Witch, Apothecary, Acolyte of the [[Dimmer Sisters]]
-- Chipper, trying to be serene
+- Chipper, trying to be serene and serious
 - Self-Important
 - "Ehrm, Ah, Um,"
 - Trying way too hard to be wise and mysterious

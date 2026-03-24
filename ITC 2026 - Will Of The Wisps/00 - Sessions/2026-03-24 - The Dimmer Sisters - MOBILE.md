@@ -19,7 +19,8 @@ Current: false
 - Crew - [[Will of the Wisps]]
 
 # Recap
-- [[2026-03-10 - Reaching Higher]]
+- No recap this time - starting hard
+- Reference [[2026-03-10 - Reaching Higher]]
 
 
 # People
@@ -27,10 +28,23 @@ Current: false
 
 # Scenes
 ### Opening
-- Dimmer House
+![[Dimmer House]]
 
+- Meeting with [[Quellyn]]
 ### Score
 - Option A: Sparkwright Cart
+	- cart traveling down a back alley, by understated but strong looking goats. 
+	- Cramped passageways, crowded back alleys
+	- Merchants collapsing their stalls, pulling back to avoid getting trampled. 
+	- Hull (T2) on the cart, revolvers and blades.
+
+### Ideas
+- Keel's Leviathan blood addiction should come up. 
+- Dig more into Drav's character. Where does this altruism come from? Can it be exploited? 
+- Figure out Fantome's vampire. How does he feed?
+	- Fire, warmth, ash
+- What is satara's dark desire?
+	- Drowning victims, Leviathan blood, wrath and ruin. Violence done using water and ice, or rituals performed with Leviathan blood. 
 
 # Secret and Clues
 
@@ -59,4 +73,6 @@ Monster
 ```
 
 ### Session Notes
-- 
+
+
+[[Planning 3-24 - Dimmer Sisters]]
