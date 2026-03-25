@@ -28,22 +28,22 @@ Current: false
 
 # Scenes
 ### Opening
-![[Dimmer House]]
+![[Dimmer House#Description]]
 
 - Meeting with [[Quellyn]]
-### Score
-- Option A: Sparkwright Cart
-	- cart traveling down a back alley, by understated but strong looking goats. 
-	- Cramped passageways, crowded back alleys
-	- Merchants collapsing their stalls, pulling back to avoid getting trampled. 
-	- Hull (T2) on the cart, revolvers and blades.
+- Fantome - instant Resolve roll to resist crushing madness
+- Faced with [[Sister Rose]]
+
+## Decide on Score
+[[Score Options]]
+- Option A: ![[Score Options#Sparkwright Cart]]
 
 ### Ideas
 - Keel's Leviathan blood addiction should come up. 
-- Dig more into Drav's character. Where does this altruism come from? Can it be exploited? 
+- Dig more into Drav's character. Where does this altruism come from? Can it be exploited?
 - Figure out Fantome's vampire. How does he feed?
-	- Fire, warmth, ash
-- What is satara's dark desire?
+	- Fire, warmth, ash. He grabs the mark on her, and she burns. He drinks in the warmth of the flame
+- What is [[Setarra]]'s dark desire?
 	- Drowning victims, Leviathan blood, wrath and ruin. Violence done using water and ice, or rituals performed with Leviathan blood. 
 
 # Secret and Clues
@@ -76,3 +76,7 @@ Monster
 
 
 [[Planning 3-24 - Dimmer Sisters]]
+- Fantome has the book
+	- Keel can read a bit
+	- Saw ancient magic, names of demons
+- Delivery truck - Sampson & Sons
