@@ -32,6 +32,174 @@
             }
           },
           {
+            "id": "4d73a80a26245629",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/Session 0.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 0"
+            }
+          },
+          {
+            "id": "ee48d510d63d7c64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sister Rose.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sister Rose"
+            }
+          },
+          {
+            "id": "242eb8e123956be8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITC 2026 - Will Of The Wisps/Characters/Quellyn.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Quellyn"
+            }
+          },
+          {
+            "id": "b3daec95985fb465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lord Scurlock.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lord Scurlock"
+            }
+          },
+          {
+            "id": "393978a6f788a3cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sister Rose.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sister Rose"
+            }
+          },
+          {
+            "id": "22ff70abf10caea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-03-10 - Reaching Higher.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-10 - Reaching Higher"
+            }
+          },
+          {
+            "id": "6973f530bffd000c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITC 2026 - Will Of The Wisps/Planning/Score Options.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Score Options"
+            }
+          },
+          {
             "id": "505e9add46d03225",
             "type": "leaf",
             "state": {
@@ -128,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-03-24 - The Dimmer Sisters.md",
+                "file": "02 - GM Tips and Resources/Score Engagement Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +306,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-03-24 - The Dimmer Sisters"
+              "title": "Backlinks for Score Engagement Types"
             }
           },
           {
@@ -147,12 +315,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-03-24 - The Dimmer Sisters.md",
+                "file": "02 - GM Tips and Resources/Score Engagement Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-03-24 - The Dimmer Sisters"
+              "title": "Outgoing links from Score Engagement Types"
             }
           },
           {
@@ -190,13 +358,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-03-24 - The Dimmer Sisters.md",
+                "file": "02 - GM Tips and Resources/Score Engagement Types.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-24 - The Dimmer Sisters"
+              "title": "Outline of Score Engagement Types"
             }
           }
         ]
@@ -220,12 +388,18 @@
   },
   "active": "8533240a57c40314",
   "lastOpenFiles": [
-    "ITC 2026 - Will Of The Wisps/Planning/Planning 3-24 - Dimmer Sisters.md",
+    "02 - GM Tips and Resources/Score Engagement Types.md",
+    "ITC 2026 - Will Of The Wisps/Planning/Score Options.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-03-24 - The Dimmer Sisters.md",
-    "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-03-24 - The Dimmer Sisters.md",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/Session 0.md",
+    "Sister Rose.md",
     "ITC 2026 - Will Of The Wisps/Characters/Quellyn.md",
+    "ITC 2026 - Will Of The Wisps/Characters/Setarra.md",
+    "Lord Scurlock.md",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-03-10 - Reaching Higher.md",
+    "ITC 2026 - Will Of The Wisps/Planning/Threats and Opportunities.md",
+    "ITC 2026 - Will Of The Wisps/Planning/Planning 3-24 - Dimmer Sisters.md",
     "Dimmer House.md",
-    "Sister Roslynn.md",
     "ITC 2026 - Will Of The Wisps/Factions/Dimmer Sisters.md",
     "ITC 2026 - Will Of The Wisps/Factions/Gray Cloaks.md",
     "ITC 2026 - Will Of The Wisps/Factions/Hive.md",
@@ -238,15 +412,9 @@
     "Artie (Arthur) Donaldson.md",
     "00 - Templates/Session Template.md",
     "ITC 2026 - Will Of The Wisps/Planning/Big ideas.md",
-    "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-03-10 - Reaching Higher.md",
     "ITC 2026 - Will Of The Wisps/Planning",
-    "ITC 2026 - Will Of The Wisps/Planning/Threats and Opportunities.md",
     "Notes Import.md",
-    "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/Session 0.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-03-03 - Session.md",
-    "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-02-10 - Will of the Wisps Rising.md",
-    "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-02-16 - Planning Erika side story.md",
-    "ITC 2026 - Will Of The Wisps/Locations/The Devil's Tooth Tavern.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive",
     "ITC 2026 - Will Of The Wisps/Locations",
     "ITC 2026 - Will Of The Wisps/Factions",
