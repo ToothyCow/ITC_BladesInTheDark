@@ -23,6 +23,8 @@ Initiation into the Gondoliers grants the Whisper’s Compel special ability.
 
 # Allies
 The Lampblacks, Citizenry of all districts.
+>[!secret]- Secret
+>Reconciled
 
 # Enemies
 The Red Sashes, Spirit Wardens.
@@ -33,7 +35,9 @@ Killers have disposed of bodies in the canals of Doskvol for centuries. The veng
 A sudden influx of ritually disfigured hollows dumped in the canals has sparked investigation by the Gondoliers (the Spirit Wardens are pointedly ignoring the situation).
 
 *Secret*
-- Are the [[Reconciled]] involved? Or is it the [[Church of Ecstasy]]?
+- It is the [[Church of Ecstasy]]
+
+
 
 # Plans
 - Investigate desecrated hollows: 8

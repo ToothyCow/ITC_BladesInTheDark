@@ -5,7 +5,7 @@ Docks
 - [[Gray Cloaks]]
 - [[Fog Hounds]]
 
->[!tip] Secret
+>[!tip]- Secret
 > - [[Hive]]
 > - [[Unseen]]
 > - [[Lord Strangford]]

@@ -76,7 +76,13 @@ Monster
 
 
 [[Planning 3-24 - Dimmer Sisters]]
-- Fantome has the book
+- Fantome has the [[Book of Lost Names]]
 	- Keel can read a bit
 	- Saw ancient magic, names of demons
 - Delivery truck - Sampson & Sons
+- Knocked out drivers
+- Took truck to Dimmer Sisters' safe house
+- Cracked open hulls
+- One had a Skov Royal Guard as a spirit battery
+- Phin tried to commune, caused explosion
+- Score - 10 coin, including +2 for intact hull
