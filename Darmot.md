@@ -2,11 +2,10 @@
 tags:
   - NPC
 ---
-# Glance
-- *Voice*
-- *Posture*
-- *Pauses*
-- *Quirk*
+# Self-important, overreaching investigator
+- Slimy, smarmy, falsely friendly. "Quince, you know how these things go. Scoundrels do things they'd rather stay hidden, heroic officers sniff out some leads, and coin ensures the lead goes somewhere mutually beneficial, like a dead end."
+- Self-assured, relaxed
+- "Ah-ha..."
 *Background*
 
 # Opportunities:
