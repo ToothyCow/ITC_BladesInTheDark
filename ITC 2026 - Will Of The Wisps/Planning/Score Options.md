@@ -1,5 +1,4 @@
 # Full Jobs
-### 
 
 # Targets
 ## Gray Cloaks

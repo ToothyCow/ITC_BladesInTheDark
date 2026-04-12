@@ -1,0 +1,1 @@
+Cults that attempt to follow the old ways from before the cataclysm, doing the bidding of demons and darker things. There are many cults, who rarely organize together. An individual cult is usually Tier I or Tier II.

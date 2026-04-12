@@ -13,54 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-04-10 - Session 6.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-10 - Session 6"
-            }
-          },
-          {
-            "id": "a40b494039af9e09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lord Strangford.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lord Strangford"
-            }
-          },
-          {
-            "id": "8533240a57c40314",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "ITC 2026 - Will Of The Wisps/Planning/Score Options.md",
                 "mode": "source",
                 "source": false,
@@ -80,12 +32,12 @@
             }
           },
           {
-            "id": "077602b8860597ba",
+            "id": "d645216761542257",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/Factions/Reconciled.md",
+                "file": "Unseen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reconciled"
+              "title": "Unseen"
             }
           },
           {
-            "id": "47e876b6a7cb749c",
+            "id": "21458d4f15314e41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/Factions/Gondoliers.md",
+                "file": "Bluecoats.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gondoliers"
+              "title": "Bluecoats"
             }
           },
           {
-            "id": "3a46ad5ee7a13d38",
+            "id": "909c5874647863b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book of Lost Names.md",
+                "file": "Forgotten Gods.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +100,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Book of Lost Names"
+              "title": "Forgotten Gods"
+            }
+          },
+          {
+            "id": "580d253ca1daf6e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Darmot.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Darmot"
             }
           }
         ]
@@ -316,8 +292,13 @@
   },
   "active": "413e16958ce229e1",
   "lastOpenFiles": [
-    "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-03-10 - Reaching Higher.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-04-10 - Session 6.md",
+    "Bluecoats.md",
+    "Unseen.md",
+    "Forgotten Gods.md",
+    "Darmot.md",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/Session 0.md",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-03-10 - Reaching Higher.md",
     "Lord Strangford.md",
     "ITC 2026 - Will Of The Wisps/Planning/Score Options.md",
     "ITC 2026 - Will Of The Wisps/Factions/Gondoliers.md",
@@ -326,7 +307,6 @@
     "Book of Lost Names.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-03-24 - The Dimmer Sisters.md",
     "ITC 2026 - Will Of The Wisps/Factions/Dimmer Sisters.md",
-    "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/Session 0.md",
     "ITC 2026 - Will Of The Wisps/Planning/Planning 3-24 - Dimmer Sisters.md",
     "02 - GM Tips and Resources/Score Engagement Types.md",
     "Sister Rose.md",
@@ -338,10 +318,6 @@
     "ITC 2026 - Will Of The Wisps/Factions/Gray Cloaks.md",
     "ITC 2026 - Will Of The Wisps/Factions/Hive.md",
     "ITC 2026 - Will Of The Wisps/Factions/Circle of Flame.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Lauria (Nyssa).md",
-    "ITC 2026 - Will Of The Wisps/Characters/Erik Notes.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Drav Kardera.md",
-    "Lucella.md",
     "ITC 2026 - Will Of The Wisps/Planning",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive",
     "ITC 2026 - Will Of The Wisps/Locations",
