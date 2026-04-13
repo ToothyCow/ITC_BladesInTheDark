@@ -79,6 +79,7 @@ Monster
 - Fantome has the [[Book of Lost Names]]
 	- Keel can read a bit
 	- Saw ancient magic, names of demons
+	- "Weave to light to binding to release"
 - Delivery truck - Sampson & Sons
 - Knocked out drivers
 - Took truck to Dimmer Sisters' safe house
