@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-04-10 - Session 6.md",
+                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-04-24 - Judge, Jury, Executioner.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-10 - Session 6"
+              "title": "2026-04-24 - Judge, Jury, Executioner"
             }
           },
           {
-            "id": "376d0097b3cf27ba",
+            "id": "b780739df1d52e4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unseen.md",
+                "file": "Magistrate Emeline.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,79 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Unseen"
-            }
-          },
-          {
-            "id": "ee03a66133735654",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - GM Tips and Resources/Score Engagement Types.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Score Engagement Types"
-            }
-          },
-          {
-            "id": "7defebac2585e93c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITC 2026 - Will Of The Wisps/Characters/Roslyn Kellis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Roslyn Kellis"
-            }
-          },
-          {
-            "id": "b54d0b486c5657e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Darmot.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Darmot"
+              "title": "Magistrate Emeline"
             }
           }
         ]
@@ -292,8 +220,11 @@
   },
   "active": "413e16958ce229e1",
   "lastOpenFiles": [
+    "Magistrate Emeline.md",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-04-24 - Judge, Jury, Executioner.md",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-04-10 - Session 6.md",
+    "Magistrate Cavelle.md",
     "Unseen.md",
-    "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-04-10 - Session 6.md",
     "02 - GM Tips and Resources/Score Engagement Types.md",
     "02 - GM Tips and Resources/Names and Looks.md",
     "ITC 2026 - Will Of The Wisps/Characters/Roslyn Kellis.md",
@@ -315,9 +246,6 @@
     "ITC 2026 - Will Of The Wisps/Planning/Planning 3-24 - Dimmer Sisters.md",
     "Sister Rose.md",
     "ITC 2026 - Will Of The Wisps/Characters/Setarra.md",
-    "Lord Scurlock.md",
-    "ITC 2026 - Will Of The Wisps/Planning/Threats and Opportunities.md",
-    "Dimmer House.md",
     "ITC 2026 - Will Of The Wisps/Planning",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive",
     "ITC 2026 - Will Of The Wisps/Locations",

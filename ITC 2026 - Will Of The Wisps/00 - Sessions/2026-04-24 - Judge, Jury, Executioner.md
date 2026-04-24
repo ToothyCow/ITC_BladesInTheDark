@@ -29,15 +29,16 @@ LAST TIME:
 
 # Scenes
 ### Planning
-- Starting as party impersonates legal internal affairs ministers checking in on emissary. They know there are assassins in the guards, but they don't know that those assassins are threatening the emissaries family. 
-- How would the emissary engage with the internal affairs ministers? What is the policy for a judge being threatened? Does the emissary view the party as a way out, or will she lie to them to protect her family? Given that the party rolled crit, I think the former. 
-- this emissary has been desperate to find a way to get her family out of this, hopefully without compromising her values. She will try to talk in code to communicate that she is being held hostage, and ask for military assistance. She will use legal cases to communicate the situation. 
-	- case 543, Castleton v Silver Nails - botched hostage situation
-	- case 1927, Dunvil v Constabulary - controlled explosives went haywire, resulting in dead hostages
-	- Case 979, castellan v. Castelland- convicting a whisper for compelling a spirit to spy on family members.
-- complication a spirit has been compelled to watch the emissary and report on any suspicious activity 
-- emissary has a son, a housekeeper, and two grandchildren with her 
-- who have the unseen hired for this threatening job? Red sashes? Blue coats? How many are unseen, and how many are just hired guns? One or two tier 2 assassins, the rest mooks
+- Starting as party impersonates legal internal affairs ministers checking in on [[Magistrate Emeline]]. They know there are assassins in the guards, but they don't know that those assassins are threatening Emeline's family. 
+- How would the [[Magistrate Emeline]] engage with the internal affairs ministers? What is the policy for a judge being threatened?
+	- Emeline views the party as a way out. She has been desperate to find a way to get her family out of this, hopefully without compromising her values. She will try to talk in code to communicate that she is being held hostage, and ask for military assistance, using legal cases to communicate the situation. 
+		- case 543, Castleton v Silver Nails - botched hostage situation
+		- case 1927, Dunvil v Constabulary - controlled explosives went haywire, resulting in dead hostages
+		- Case 979, castellan v. Castelland- convicting a whisper for compelling a spirit to spy on family members.
+	- Emeline has a son, a housekeeper, and two grandchildren with her 
+- Complication: a spirit has been compelled to watch the emissary and report on any suspicious activity 
+- Guards are combination of Blue Coat "Protective Detail", elite Red Sash assassin (T2) and whisper (T1)
+
 - [ ] TODO - check character creation for Roslyn
 - have a scene with the unseen tailing a visitor to quince
 - reconciled vampire- visit Quince once she's out of prison
