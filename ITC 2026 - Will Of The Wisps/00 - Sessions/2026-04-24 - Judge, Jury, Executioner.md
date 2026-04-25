@@ -28,6 +28,8 @@ LAST TIME:
 
 
 # Scenes
+- Infiltrating [[Magistrate Emeline]]'s estate
+- Accusing [[Magistrate Cavelle]]
 ### Planning
 - Starting as party impersonates legal internal affairs ministers checking in on [[Magistrate Emeline]]. They know there are assassins in the guards, but they don't know that those assassins are threatening Emeline's family. 
 - How would the [[Magistrate Emeline]] engage with the internal affairs ministers? What is the policy for a judge being threatened?
@@ -74,3 +76,13 @@ Monster
 ```
 
 ### Session Notes
+Meeting at the Clam Hammer tavern - Flashback
+[[Roslyn Kellis]] is a lawyer
+[[Hive]] getting more directly tied to the situation since Roslyn is involved
+[[Names and Looks]]
+[[Roethe Ankhyayaht]] - Former Red Sash Assassin, T2
+[[Shiv]] - Red Sash Whisper
+[[Mr. Tuesday]] - Unseen ambassador
+Ended session with Drav and Roslyn stealing the carriage from undercover "blue coats", Keel sneaking up on guard in the back
+- [[Magistrate Emeline]]'s family in transit, best chance to take them safely
+- Bazso Baz assisting on promise that Red Sashes are involved and will hurt their war capabilities. Drav owes Bazso a coin if not

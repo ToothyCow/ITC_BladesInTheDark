@@ -8,7 +8,7 @@ tags:
 - "Yeah yeah yeah!"
 - Constantly chewing tobacco, smacks lips and spits
 *Background*
-- Secretly a Vampire, original spirit named Nyssa.
+- Secretly a Vampire, original spirit named Nyryx.
 
 # Opportunities:
 - *Things that may influence the plot*

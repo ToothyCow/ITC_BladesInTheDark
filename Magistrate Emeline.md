@@ -5,7 +5,7 @@ tags:
 # Glance
 - Sassy Iruvian Grandma (Avisarala)
 - *Posture*
-- *Pauses*
+- "Hm."
 - *Quirk*
 *Background*
 

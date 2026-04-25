@@ -14,7 +14,7 @@ None
 The Reconciled have possessed several important citizens in Doskvol. Their exact membership is not known.
 
 *Secret*
-- [[Lauria (Nyssa)]] ([[Gondoliers]] adept, fast-talker, skittish)
+- [[Lauria (Nyryx)]] ([[Gondoliers]] adept, fast-talker, skittish)
 
 # Assets
 Several secret and hidden spirit wells across the city and in the deathlands, which give the Reconciled the arcane energy they need to survive.

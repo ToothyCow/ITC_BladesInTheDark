@@ -17,7 +17,7 @@ Payout: 3 Coin
 Spy on [[Fog Hounds]], find benefactor, steal contraband found there
 
 ### [[Reconciled]]
-- [[Lauria (Nyssa)]] is contact
+- [[Lauria (Nyryx)]] is contact
 - What do the Reconciled want? How can the party help?
 	- Steal from city council member
 	- Steal from Church of the Ecstasy of the Flesh
