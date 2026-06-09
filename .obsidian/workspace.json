@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,6 +207,8 @@
   },
   "active": "fc88f4ea04cda249",
   "lastOpenFiles": [
+    "_.trash",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/Untitled.md",
     "ITC 2026 - Will Of The Wisps/Characters/Lauria (Nyryx).md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-04-24 - Judge, Jury, Executioner.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-03-03 - Session.md",
@@ -231,8 +234,6 @@
     "Dimmer House.md",
     "Book of Lost Names.md",
     "Bluecoats.md",
-    "Planning 3-24.md",
-    "ITC 2026 - Will Of The Wisps/Characters/Drav Kardera.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive",
     "ITC 2026 - Will Of The Wisps/Locations",
     "02 - GM Tips and Resources/Pictures/Scores Table 2.png",
