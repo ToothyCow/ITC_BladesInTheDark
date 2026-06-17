@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc88f4ea04cda249",
+            "id": "1efc47d04701b3b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-04-24 - Judge, Jury, Executioner.md",
+                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-06-09 - Judge, Jury, Executioner Pt 2 - FINALE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-24 - Judge, Jury, Executioner"
+              "title": "2026-06-09 - Judge, Jury, Executioner Pt 2 - FINALE"
+            }
+          },
+          {
+            "id": "33275d8e36a9b1a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magistrate Emeline.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Magistrate Emeline"
+            }
+          },
+          {
+            "id": "fc88f4ea04cda249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/Music.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Music"
             }
           }
         ]
@@ -205,18 +253,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "fc88f4ea04cda249",
+  "active": "1efc47d04701b3b2",
   "lastOpenFiles": [
-    "_.trash",
+    "Magistrate Emeline.md",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-06-09 - Judge, Jury, Executioner Pt 2 - FINALE.md",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-04-24 - Judge, Jury, Executioner.md",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/Music.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Untitled.md",
+    "Shiv.md",
+    "Mr. Tuesday.md",
+    "_.trash",
     "ITC 2026 - Will Of The Wisps/Characters/Lauria (Nyryx).md",
-    "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-04-24 - Judge, Jury, Executioner.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-03-03 - Session.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-03-24 - The Dimmer Sisters.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-03-10 - Reaching Higher.md",
     "02 - GM Tips and Resources/Names and Looks.md",
     "Roethe Ankhyayaht.md",
-    "Magistrate Emeline.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-04-10 - Session 6.md",
     "Unseen.md",
     "Sister Rose.md",
@@ -231,9 +283,6 @@
     "ITC 2026 - Will Of The Wisps/Factions/Dimmer Sisters.md",
     "ITC 2026 - Will Of The Wisps/Characters/Quellyn.md",
     "Forgotten Gods.md",
-    "Dimmer House.md",
-    "Book of Lost Names.md",
-    "Bluecoats.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive",
     "ITC 2026 - Will Of The Wisps/Locations",
     "02 - GM Tips and Resources/Pictures/Scores Table 2.png",

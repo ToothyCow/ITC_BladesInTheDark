@@ -5,7 +5,7 @@ Type: Session
 tags:
 Current: false
 ---
-z# To Do
+# To Do
 
 - [ ] [[Characters MOC]]
 - [ ] [[Factions MOC]]
@@ -85,13 +85,7 @@ Monster
 ```
 
 ### Session Notes
-Meeting at the Clam Hammer tavern - Flashback
-[[Roslyn Kellis]] is a lawyer
-[[Hive]] getting more directly tied to the situation since Roslyn is involved
-[[Names and Looks]]
-[[Roethe Ankhyayaht]] - Former Red Sash Assassin, T2
-[[Shiv]] - Red Sash Whisper
-[[Mr. Tuesday]] - Unseen ambassador
-Ended session with Drav and Roslyn stealing the carriage from undercover "blue coats", Keel sneaking up on guard in the back
-- [[Magistrate Emeline]]'s family in transit, best chance to take them safely
-- Bazso Baz assisting on promise that Red Sashes are involved and will hurt their war capabilities. Drav owes Bazso a coin if not
+Ghost links can be man-in-the-middle attacked
+**DEVIL'S BARGAIN** - Future badness for interfering with ghost field communication
+Drav owes Bazso Baz a favor
+[[Magistrate Emeline]]'s house is on the corner of Nobles' Rise, view of Brightwater Canal

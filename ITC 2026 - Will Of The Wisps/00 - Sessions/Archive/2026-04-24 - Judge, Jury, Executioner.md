@@ -76,7 +76,7 @@ Monster
 ```
 
 ### Session Notes
-Meeting at the Clam Hammer tavern - Flashback
+Meeting at the [[Clam Hammer]] tavern - Flashback
 [[Roslyn Kellis]] is a lawyer
 [[Hive]] getting more directly tied to the situation since Roslyn is involved
 [[Names and Looks]]
