@@ -50,7 +50,7 @@ LAST TIME:
     - ​Setback: Multiple Assassins
     - ​Climax, Resolution: Escape or Die!
 
-- [ ] TODO - check character creation for Roslyn
+- [x] TODO - check character creation for Roslyn
 - have a scene with the unseen tailing a visitor to quince
 - reconciled vampire- visit Quince once she's out of prison
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-06-09 - Judge, Jury, Executioner Pt 2 - FINALE.md",
+                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-06-09 - Judge, Jury, Executioner Pt 3 - FINALE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-09 - Judge, Jury, Executioner Pt 2 - FINALE"
+              "title": "2026-06-09 - Judge, Jury, Executioner Pt 3 - FINALE"
+            }
+          },
+          {
+            "id": "3c08e5f329f5e729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-06-09 - Judge, Jury, Executioner Pt 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-09 - Judge, Jury, Executioner Pt 2"
             }
           },
           {
@@ -255,8 +279,9 @@
   },
   "active": "1efc47d04701b3b2",
   "lastOpenFiles": [
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-06-09 - Judge, Jury, Executioner Pt 2.md",
+    "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-06-09 - Judge, Jury, Executioner Pt 3 - FINALE.md",
     "Magistrate Emeline.md",
-    "ITC 2026 - Will Of The Wisps/00 - Sessions/2026-06-09 - Judge, Jury, Executioner Pt 2 - FINALE.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive/2026-04-24 - Judge, Jury, Executioner.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Music.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Untitled.md",
@@ -282,7 +307,6 @@
     "ITC 2026 - Will Of The Wisps/Planning",
     "ITC 2026 - Will Of The Wisps/Factions/Dimmer Sisters.md",
     "ITC 2026 - Will Of The Wisps/Characters/Quellyn.md",
-    "Forgotten Gods.md",
     "ITC 2026 - Will Of The Wisps/00 - Sessions/Archive",
     "ITC 2026 - Will Of The Wisps/Locations",
     "02 - GM Tips and Resources/Pictures/Scores Table 2.png",
