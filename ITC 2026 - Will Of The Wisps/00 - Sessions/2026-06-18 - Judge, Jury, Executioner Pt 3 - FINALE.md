@@ -12,6 +12,9 @@ Current: false
 - [ ] [[Scenarios MOC]]
 - [ ] [[Threats and Opportunities]]
 
+# Reference
+[[Music]]
+
 # Party View
 - Erika - [[Le Fantome - Quince Blackwell]]
 - Erika - [[Roslyn Kellis]]
@@ -32,16 +35,22 @@ LAST TIME:
 
 
 # Scenes
-- Accusing [[Magistrate Cavelle]]
+
 ### Planning
 - Start at tavern, catching up (Recap)
 - Score - Break [[Magistrate Emeline]] Out
-	- Opening
-	- Conflict
+	- art: https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fsome-mood-pictures-of-doskvol-v0-1zy514l68vi91.jpg%3Fwidth%3D1024%26format%3Dpjpg%26auto%3Dwebp%26s%3D1087c53058a9614f267e32acd6e035bb74f3692e
+	- Opening - score entrance
+	- Conflict - Unseen know another crew is moving in 
+		- Desperate - their cover is blown, and they're walking into a trap
+		- Risky - Suspicions are already raised, guards won't leave the room
+		- Controlled - Ask players to describe how they deflected suspicion away from their cover
 	- Setback
+		- Whisper link detected? Blown, used to discover their movements
 	- Climax
 	- Resolution
-		- reconciled vampire- visit Quince once she's out of prison
+- assassination attempt on Keel?
+- reconciled vampire- visit Quince once she's out of prison
 
 # Secret and Clues
 
